@@ -42,7 +42,7 @@ CUDA_VISIBLE_DEVICES=3 python /workspace/xxxxxx/KGQA/RTSoG/evaluate_v2.py \
     --num_plan_branch 7 \
     --num_branch 4 \
     --iteration_limit 7 \
-> $output_dir/logs/$task_name/$filename
+\> $output_dir/logs/$task_name/$filename
 ```
 The generated reasoning tree will be saved in the output directory.
 
@@ -63,7 +63,7 @@ mkdir -p $output_dir/logs/$task_name/evaluation
 CUDA_VISIBLE_DEVICES=4 python /workspace/answer_generation.py \
     --use_local_method False \
     --propose_method deepseekv3 \
-> $output_dir/logs/$task_name/evaluation/$filename
+\> $output_dir/logs/$task_name/evaluation/$filename
 ```
 
 ## Acknowledgement
