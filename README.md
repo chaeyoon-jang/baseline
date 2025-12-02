@@ -3,7 +3,7 @@ This is the official implementation code of the RTSoG algorithm, which leverages
 
 <img src="framework1.png" width = "800" />
 
-
+<img src="framework2.png" width = "600" />
 
 ## Requirements
 1、Hardware Requirements: An NVIDIA GPU environment is required, with CUDA version 12.4 or higher and driver version 550 or above.
@@ -23,8 +23,8 @@ We provide two solutions for different data formats. The first solution, version
 First, after configuring the knowledge graph environment according to the instructions in the freebase folder, you need to download your required large language model (e.g., Qwen2.5-7B) locally and configure the relevant paths in the script files, and navigate to the directory of your chosen version.
 
 ### Step 1: Generate the Reasoning Tree for the Question
-<img src="framework2.png" width = "600" />
 1、Run sh scripts/run_v2.sh to start the code and build the reasoning tree.
+
 ```
 output_dir=/workspace/xxxxxx/KGQA/RTSoG/outputs
 propose_method=qwen14b
@@ -42,11 +42,13 @@ CUDA_VISIBLE_DEVICES=3 python /workspace/xxxxxx/KGQA/RTSoG/evaluate_v2.py \
     --num_plan_branch 7 \
     --num_branch 4 \
     --iteration_limit 7 \
-\> $output_dir/logs/$task_name/$filename
+> $output_dir/logs/$task_name/$filename
 ```
+
 The generated reasoning tree will be saved in the output directory.
 
 ### Step 2: Parse the Generated JSON File to Obtain the shortcut.json File
+
 ```
 python split_json.py
 ```
@@ -63,7 +65,7 @@ mkdir -p $output_dir/logs/$task_name/evaluation
 CUDA_VISIBLE_DEVICES=4 python /workspace/answer_generation.py \
     --use_local_method False \
     --propose_method deepseekv3 \
-\> $output_dir/logs/$task_name/evaluation/$filename
+> $output_dir/logs/$task_name/evaluation/$filename
 ```
 
 ## Acknowledgement

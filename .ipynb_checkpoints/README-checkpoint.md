@@ -24,6 +24,7 @@ First, after configuring the knowledge graph environment according to the instru
 
 ### Step 1: Generate the Reasoning Tree for the Question
 1、Run sh scripts/run_v2.sh to start the code and build the reasoning tree.
+
 ```
 output_dir=/workspace/xxxxxx/KGQA/RTSoG/outputs
 propose_method=qwen14b
@@ -43,9 +44,11 @@ CUDA_VISIBLE_DEVICES=3 python /workspace/xxxxxx/KGQA/RTSoG/evaluate_v2.py \
     --iteration_limit 7 \
 > $output_dir/logs/$task_name/$filename
 ```
+
 The generated reasoning tree will be saved in the output directory.
 
 ### Step 2: Parse the Generated JSON File to Obtain the shortcut.json File
+
 ```
 python split_json.py
 ```
@@ -64,7 +67,6 @@ CUDA_VISIBLE_DEVICES=4 python /workspace/answer_generation.py \
     --propose_method deepseekv3 \
 > $output_dir/logs/$task_name/evaluation/$filename
 ```
-
 
 ## Acknowledgement
 We refer to the data processing code of ToG[https://github.com/DataArcTech/ToG] and RoG[https://github.com/RManLuo/reasoning-on-graphs]. Thanks for their contributions.
