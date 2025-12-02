@@ -1,0 +1,3698 @@
+[
+    {
+        "WebQTrn-1864_67ecd1c247c3b2c9545fbcf1ad8d9d00": [
+            {
+                "question": "Which location in the Anadyr Timezone has the biggest population?"
+            },
+            {
+                "topic_entity_list": [
+                    "Anadyr Time Zone",
+                    "Country"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "India"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTest-361_e24533e28da40db99eb4b25773f9d38f": [
+            {
+                "question": "What museum established before 1971 is there to see in Vienna, Austria?"
+            },
+            {
+                "topic_entity_list": [
+                    "Vienna"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Kunsthistorisches Museum"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-810_e3d40457273785e46c5b71732713a5f4": [
+            {
+                "question": "When did the team with Crazy crab as their mascot win the world series?"
+            },
+            {
+                "topic_entity_list": [
+                    "Crazy Crab"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "2014 World Series"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-60_39ba4faa87698cb0767d1a5ee7ce1827": [
+            {
+                "question": "What country do they speak Portuguese where the GDP real adjusted value was once 100349905926?"
+            },
+            {
+                "topic_entity_list": [
+                    "Portuguese Language"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "South Africa"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-846_a29552911617e890ca2e1d6564e0990e": [
+            {
+                "question": "What is the birthplace of the artist that went on The Avril Lavinge Tour?"
+            },
+            {
+                "topic_entity_list": [
+                    "The Avril Lavigne Tour"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Belleville"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-2444_e5059ff268415917df330817b9c8ef8c": [
+            {
+                "question": "In what stadium does the team who is owned by William DeWitt, Jr. play?"
+            },
+            {
+                "topic_entity_list": [
+                    "William DeWitt, Jr."
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Busch Stadium"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTest-1812_c29807a955ea46fa79cdc9f7aeacba18": [
+            {
+                "question": "Where was the main artist featured in the Rihanna: Live in Concert Tour raised?"
+            },
+            {
+                "topic_entity_list": [
+                    "Rihanna: Live in Concert Tour"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Saint Michael Parish"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTest-590_2f40ab1d4ea497555c4c883c92a758b7": [
+            {
+                "question": "Who is the leader of the country that has national anthem Allhu Akbar?"
+            },
+            {
+                "topic_entity_list": [
+                    "Prime Minister of Libya",
+                    "Allahu Akbar"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Abdullah al-Thani"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTest-1012_7ee41dcd5e0ee726e65a46d891982c8f": [
+            {
+                "question": "What Hollywood studio produced the American Gladiators TV movie?"
+            },
+            {
+                "topic_entity_list": [
+                    "American Gladiators",
+                    "Hollywood"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Universal Studios Hollywood"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-2026_84e5ab7013a2c0dd11f7f61db45df94c": [
+            {
+                "question": "If you are visiting a country and in the San Pedro De Marcois Province, what form of currency would you spend?"
+            },
+            {
+                "topic_entity_list": [
+                    "San Pedro de Macorís Province"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Dominican peso"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-60_eae3033643523fd3a54b6c147fdfa728": [
+            {
+                "question": "What Portuguese=speaking country had the net migration number of -10000?"
+            },
+            {
+                "topic_entity_list": [
+                    "Portuguese Language"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Guinea-Bissau"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTest-12_c701ad2b5b8ef3f3ed26dd2ed8703d05": [
+            {
+                "question": "Who held his governmental position from December 12, 1808 and was Governor of Ohio in 2011?"
+            },
+            {
+                "topic_entity_list": [
+                    "Governor",
+                    "Ohio"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Return J. Meigs, Jr."
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-2444_06d5101218b4299633a55b1f229e9b40": [
+            {
+                "question": "What is the home field of the sports team whose mascot is named Fredbird?"
+            },
+            {
+                "topic_entity_list": [
+                    "Fredbird"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Busch Stadium"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-60_ab97cd852bcb8f41194f686282460b40": [
+            {
+                "question": "What Portuguese-speaking country's minimum wage was 356.72?"
+            },
+            {
+                "topic_entity_list": [
+                    "Portuguese Language"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Portugal",
+                    "Portugal",
+                    "Portugal",
+                    "Portugal"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-3100_84e5ab7013a2c0dd11f7f61db45df94c": [
+            {
+                "question": "What geographic regions is the country that has the San Pedro De Marcos province considered a part of?"
+            },
+            {
+                "topic_entity_list": [
+                    "San Pedro de Macorís Province"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Greater Antilles",
+                    "Latin America",
+                    "North America",
+                    "Americas",
+                    "País"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-3335_a9b18d079f29555cbd1e1740c7d6e40e": [
+            {
+                "question": "The country that contains Krasnodar Krai uses what type of currency?"
+            },
+            {
+                "topic_entity_list": [
+                    "Krasnodar Krai"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Russian ruble"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTest-12_7b54b31f3e5a6273f4fd2a20e565ec6d": [
+            {
+                "question": "Who was the Governor of Ohio that held his position from before 1-10-2011?"
+            },
+            {
+                "topic_entity_list": [
+                    "Governor",
+                    "Ohio"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Return J. Meigs, Jr.",
+                    "Ted Strickland",
+                    "John Kasich"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-710_e3d40457273785e46c5b71732713a5f4": [
+            {
+                "question": "When is the last time the team whose mascot is called Crazy Cab win the World Series?"
+            },
+            {
+                "topic_entity_list": [
+                    "Crazy Crab"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "2014 World Series"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-3694_4089d6d7ba86121ff285b80865682a7c": [
+            {
+                "question": "Which system of money is utilized in the country that includes, Santiago de Cuba Province?"
+            },
+            {
+                "topic_entity_list": [
+                    "Santiago de Cuba Province"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Cuban peso",
+                    "Cuban convertible peso"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTest-361_89e48a343537ccd0148b822f63519c99": [
+            {
+                "question": "What museum established earliest can be seen in Vienna Austria?"
+            },
+            {
+                "topic_entity_list": [
+                    "Vienna"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Kunsthistorisches Museum"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-105_cf2c2ca737c00135df125459635a368a": [
+            {
+                "question": "The country that contains Al Sharqia Governorate's best for of currency in 2013 was what?"
+            },
+            {
+                "topic_entity_list": [
+                    "Al Sharqia Governorate"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Egyptian pound"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTest-106_ac6916d7c5822d5edfe0f67c77f97a15": [
+            {
+                "question": "What characters did Armie Hammer play in the film with Dustin Moskovitz?"
+            },
+            {
+                "topic_entity_list": [
+                    "Armie Hammer",
+                    "Dustin Moskovitz"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Tyler Winklevoss",
+                    "Cameron Winklevoss"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTest-213_024fd6ca0b4cb30927c22e93a552ae6c": [
+            {
+                "question": "What person notable with the medical condition Attention deficit hyperactivity disorder id Scarlett Johansson date?"
+            },
+            {
+                "topic_entity_list": [
+                    "Scarlett Johansson",
+                    "Attention deficit hyperactivity disorder"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Justin Timberlake"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTest-1384_563b401a13e5a2b9bc3c9ec4bbe58962": [
+            {
+                "question": "What is the predominant religion in the country with Hatikvah as its national anthem?"
+            },
+            {
+                "topic_entity_list": [
+                    "Hatikvah"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Judaism"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-3166_762847d07f73b2ca5fd1504d7dcd9d9a": [
+            {
+                "question": "What is the capital city of the nation in which the monetary system is based on the South Korean won?"
+            },
+            {
+                "topic_entity_list": [
+                    "South Korean won"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Seoul"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTest-1260_c4e06c3a9e4b4f10bd1ae97f1742c198": [
+            {
+                "question": "Which Super Bowl was won by the team that also won the AFC Championship Game in 2013?"
+            },
+            {
+                "topic_entity_list": [
+                    "Super bowl",
+                    "2013 AFC Championship Game"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Super Bowl XXXV"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-436_b301288f1064d4357ae5d8271061e1d1": [
+            {
+                "question": "Who played Dumbledore in which film, that has a character named, Ghost of the Cavalier?"
+            },
+            {
+                "topic_entity_list": [
+                    "Professor Albus Dumbledore",
+                    "Ghost of the Cavalier"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Richard Harris"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-2218_dacbec08f8d31829038751934850ed95": [
+            {
+                "question": "What is the hometown of the architect who designed Mount Vernon?"
+            },
+            {
+                "topic_entity_list": [
+                    "Mount Vernon"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Westmoreland County"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-662_5ec0304dbb715858e564cb8426b7e4f7": [
+            {
+                "question": "What is the first name of the club that claimed the 2007-08 Premier League championship?"
+            },
+            {
+                "topic_entity_list": [
+                    "2007–08 Premier League"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Newton Heath L&YR F.C."
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTest-361_c4a62b0d37183dfdd1ca06ad4dfafcf5": [
+            {
+                "question": "What museum is located in Vienna, Austria,and was established the latest?"
+            },
+            {
+                "topic_entity_list": [
+                    "Vienna"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Sigmund Freud Museum"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-1758_82ba7a28dcbd66ab8e128c8975b2e692": [
+            {
+                "question": "What form of government is used in the country with the Tehran Province?"
+            },
+            {
+                "topic_entity_list": [
+                    "Tehran Province"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Parliamentary system",
+                    "Presidential system",
+                    "Islamic republic",
+                    "Unitary state",
+                    "Theocracy"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTest-1513_020f93c678f201a55199a0c40d829467": [
+            {
+                "question": "What Pacific Time Zone location is in downtown Sacramento?"
+            },
+            {
+                "topic_entity_list": [
+                    "Sacramento",
+                    "Pacific Time Zone"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Raging Waters Sacramento",
+                    "Folsom Lake"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-3087_a82e8e886228ce0d1aecee4a2caab326": [
+            {
+                "question": "What is the religion of the First Church of Lombard?"
+            },
+            {
+                "topic_entity_list": [
+                    "First Church of Lombard"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Christianity"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-2189_50cf52311d0cdd04337ffc0d5378b1b8": [
+            {
+                "question": "What language is spoken in the region that contains a segment of Gebel Elba?"
+            },
+            {
+                "topic_entity_list": [
+                    "Gebel Elba"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Modern Standard Arabic"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-2069_a146b4445fb7b259407068b18faf0553": [
+            {
+                "question": "What languages are used for verbal communication in the nation where Magallenes y la Antarctica Chilena Region is located?"
+            },
+            {
+                "topic_entity_list": [
+                    "Magallanes y la Antártica Chilena Region"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Aymara language",
+                    "Mapudungun Language",
+                    "Rapa Nui Language",
+                    "Spanish Language",
+                    "Puquina Language"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-3766_2458404b2726ce40f3d525263dc9f74c": [
+            {
+                "question": "In Puno Region's country, what money is used?"
+            },
+            {
+                "topic_entity_list": [
+                    "Puno Region"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Peruvian nuevo sol"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-436_d4fb347b7326355a4457aa2ce1d502f3": [
+            {
+                "question": "In the film with the character Dedalus Diggle, who played Dumbledore?"
+            },
+            {
+                "topic_entity_list": [
+                    "Professor Albus Dumbledore",
+                    "g.120w8g7k"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Richard Harris"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-2189_cf2c2ca737c00135df125459635a368a": [
+            {
+                "question": "What is the modern language of the country that contains Al Sharqia Governorate?"
+            },
+            {
+                "topic_entity_list": [
+                    "Al Sharqia Governorate"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Modern Standard Arabic"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTest-590_e1cd6a19c1fe109a00e4149625e31531": [
+            {
+                "question": "Who is in charge of the usage of the Libyan dinar?"
+            },
+            {
+                "topic_entity_list": [
+                    "Libyan dinar",
+                    "Prime Minister of Libya"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Abdullah al-Thani"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-3087_6f6c0d89afdd0d422980cd8024d5cbd1": [
+            {
+                "question": "What religious denomination is the Bethany Congregational Church?"
+            },
+            {
+                "topic_entity_list": [
+                    "Bethany Congregational Church"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Christianity"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-567_98d888d83a1b23a19245b02c10839f3f": [
+            {
+                "question": "What film with a character named Charlie Brown did Ron Howard do?"
+            },
+            {
+                "topic_entity_list": [
+                    "Ron Howard",
+                    "Charlie Brown"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Under the Boardwalk: The Monopoly Story"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTest-1528_f4911e93c40f00f8c256e3ccf42422c1": [
+            {
+                "question": "What Logan Leman movies were released on the distribution medium Blu-ray disc?"
+            },
+            {
+                "topic_entity_list": [
+                    "Blu-ray disc",
+                    "Logan Lerman"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "The Butterfly Effect",
+                    "Percy Jackson & the Olympians: The Lightning Thief"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTest-12_a91de216aa67ef8beef840ad8ad1d1be": [
+            {
+                "question": "What 2011 governor of Ohio passed away in Marietta?"
+            },
+            {
+                "topic_entity_list": [
+                    "Governor",
+                    "Ohio",
+                    "Marietta"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Return J. Meigs, Jr."
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-2784_abedc8acd0fdcd2e595d7ec6d58d6058": [
+            {
+                "question": "In which movies does Tupac act in, that was edited by Malcolm Campbell?"
+            },
+            {
+                "topic_entity_list": [
+                    "Malcolm Campbell",
+                    "Tupac Shakur"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Nothing but Trouble"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTest-191_1ca9a284fcd2c17f453b0fb590e8223f": [
+            {
+                "question": "What college Drew Brees attended is the  university with the smallest number of postgraduates?"
+            },
+            {
+                "topic_entity_list": [
+                    "College/University",
+                    "Drew Brees"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Stanford Graduate School of Business"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTest-1941_4ccdeac69c947afd15a0b301091498c0": [
+            {
+                "question": "What government systems are in place where the Peruvian inti is official currency?"
+            },
+            {
+                "topic_entity_list": [
+                    "Peruvian inti"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Presidential system",
+                    "Unitary state",
+                    "Republic",
+                    "Constitutional republic"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-303_c413d25bc8fb85a551d2619016da958b": [
+            {
+                "question": "Who inspired the artist nominated for awards for \"The Negro Speaks of Rivers\" to write poetry?"
+            },
+            {
+                "topic_entity_list": [
+                    "The Negro Speaks of Rivers"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Walt Whitman"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTest-983_fda09a5c3c6128b05dcf0db0b231193b": [
+            {
+                "question": "Which college attended by Tennessee Williams has the largest population of postgraduates?"
+            },
+            {
+                "topic_entity_list": [
+                    "College/University",
+                    "Tennessee Williams"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "University of Iowa"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-2784_6ab5c32d090e32dca9db642f612076b8": [
+            {
+                "question": "What movies did Tupac act in, that was directed by John Singleton?"
+            },
+            {
+                "topic_entity_list": [
+                    "John Singleton",
+                    "Tupac Shakur"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Poetic Justice"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTest-1923_1bc85cf9eab0a0714557180ac27e91a2": [
+            {
+                "question": "Of the movies that Miley Cyrus been in, which film was released on December 25,2003?"
+            },
+            {
+                "topic_entity_list": [
+                    "Miley Cyrus"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Big Fish"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-62_12c5e056c8b1024d48b0f7f4b2d03b7e": [
+            {
+                "question": "Which famous people one quoted \"I love Mickey Mouse more than any woman I have ever known.?"
+            },
+            {
+                "topic_entity_list": [
+                    "I love Mickey Mouse more than any woman I have ever known."
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Diane Disney Miller",
+                    "Sharon Mae Disney"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-567_a597ad8a4ef31ad09f1765593d4e7fcc": [
+            {
+                "question": "Which movies featuring the work of Ron Howard has the shortest run time?"
+            },
+            {
+                "topic_entity_list": [
+                    "Ron Howard"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Huckleberry Finn"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-124_0ebb5db67d331752adddbe06bca557fc": [
+            {
+                "question": "What movie directed by Angelina Jolie that was released after 12-22-2011?"
+            },
+            {
+                "topic_entity_list": [
+                    "Angelina Jolie"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Unbroken"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-2316_72d523c9058d95267091aebebd6b7e62": [
+            {
+                "question": "Who was the person who influenced Jackson Pollock that died latest?"
+            },
+            {
+                "topic_entity_list": [
+                    "Jackson Pollock"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Joan Mir"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-3049_ae2f0556c44ee8e111f11615ad14f9d8": [
+            {
+                "question": "For what is the area where the newspaper Creative Loafing circulates famous?"
+            },
+            {
+                "topic_entity_list": [
+                    "Creative Loafing"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "1996 Summer Olympics"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-125_003c6a046c47526d922683f22cf0e983": [
+            {
+                "question": "The subject of the film King: A Filmed Record... Montgomery to Memphis was shot at what location?"
+            },
+            {
+                "topic_entity_list": [
+                    "King: A Filmed Record... Montgomery to Memphis"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Memphis"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTest-1785_64f7f636c2ecaa51fcf62618fe76820a": [
+            {
+                "question": "Which movie did Kim Richards appear in and had a length of 112.0 minutes?"
+            },
+            {
+                "topic_entity_list": [
+                    "Kim Richards"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Tuff Turf",
+                    "No Deposit, No Return"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTest-1785_0c2ef888f7d4db8c11f11a94192905ba": [
+            {
+                "question": "Which movie was Kim Richards in, that was released in 1974?"
+            },
+            {
+                "topic_entity_list": [
+                    "Kim Richards"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "The Whiz Kid and the Mystery at Riverton"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-1392_ba1b3d8965af4c1f1127fa5219d1c2df": [
+            {
+                "question": "Where did Eleanor Roosevelt attend school, with an organization founding date of 1919?"
+            },
+            {
+                "topic_entity_list": [
+                    "Eleanor Roosevelt"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "The New School"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTest-1528_f8024d5f486967b395064aa07aa52d6e": [
+            {
+                "question": "In which movie did Logan Lerman act in, that was written by Andrew Davies?"
+            },
+            {
+                "topic_entity_list": [
+                    "Andrew Davies",
+                    "Logan Lerman"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "The Three Musketeers"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-3376_118a81ac3fc08ca8590bf8be836d1be1": [
+            {
+                "question": "What school attended by Kevin Hart had an organizational founding date of 1929?"
+            },
+            {
+                "topic_entity_list": [
+                    "Kevin Hart"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Castlemont High School"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-2784_b64250ae3c9d6c724133d09dad5593ec": [
+            {
+                "question": "What movie featuring Tupac was directed by Kirk M. Petruccelli?"
+            },
+            {
+                "topic_entity_list": [
+                    "Kirk M. Petruccelli",
+                    "Tupac Shakur"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Poetic Justice"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTest-1301_24c13551b792ceb6ce65520d29b87c61": [
+            {
+                "question": "What fun place in Sacramento, CA should I visit that's a structure that opened in 1986?"
+            },
+            {
+                "topic_entity_list": [
+                    "Sacramento"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "B Street Theatre"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTest-1817_1bbd9ffd7b604510a3d6751b9f8ef796": [
+            {
+                "question": "Which university with 9327 postgraduates did J.R.R. Tolkien attend?"
+            },
+            {
+                "topic_entity_list": [
+                    "J. R. R. Tolkien"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "University of Oxford"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTest-537_21673ea221c99d3d37931bb684325f49": [
+            {
+                "question": "What film featuring Charlie Humman has the earliest release date?"
+            },
+            {
+                "topic_entity_list": [
+                    "Charlie Hunnam"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Whatever Happened to Harold Smith?"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-3384_e83e8190540386b20d8b60496674e1d5": [
+            {
+                "question": "What language is spoken by the people governed by the government of Denmark?"
+            },
+            {
+                "topic_entity_list": [
+                    "Politics of Denmark"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Greenlandic language",
+                    "Danish Language",
+                    "Faroese",
+                    "German Language"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTest-537_74f1761f9f9f53428fd2495202e0290f": [
+            {
+                "question": "Which movie edited by Bernat Vilaplana was Charlie Hunnam in?"
+            },
+            {
+                "topic_entity_list": [
+                    "g.1z0spgn1l",
+                    "Charlie Hunnam"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Crimson Peak"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-3412_305f49b65a760af0e6ce8d06f43aa22a": [
+            {
+                "question": "Where is the artist who recorded \"Out of Your Mind\" from?"
+            },
+            {
+                "topic_entity_list": [
+                    "Out of Your Mind (radio edit)"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Harlow"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-62_bce88015327268bc8f081292e2c80dcd": [
+            {
+                "question": "Which of Walt Disney kids, who'c date of death is before November 19, 2013?"
+            },
+            {
+                "topic_entity_list": [
+                    "Walt Disney"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Sharon Mae Disney"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTest-538_e92ac6479096acfc8a23fa7ff3fa1b37": [
+            {
+                "question": "Which movie was Taylor Swift in, that debuted at Ziegfeld Theatre?"
+            },
+            {
+                "topic_entity_list": [
+                    "Ziegfeld Theatre",
+                    "Taylor Swift"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "The Giver"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-3527_4fc72548c4680b0604576961f2ce4459": [
+            {
+                "question": "What language belongs to the Italic language family did the ancient Romans write?"
+            },
+            {
+                "topic_entity_list": [
+                    "Roman Empire",
+                    "Italic languages"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Latin Language"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTest-375_3a9a869538584999b9670edcd9773dab": [
+            {
+                "question": "What's the first book written by the person who said, \"Let us be moral. Let us contemplate existence\"?"
+            },
+            {
+                "topic_entity_list": [
+                    "Book",
+                    "Let us be moral. Let us contemplate existence."
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Oliver Twist"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-2023_babe81e436454a7d4877c4ae80975c85": [
+            {
+                "question": "Where did the author of the lyrics for \"Excuse Me Miss\" grow up?"
+            },
+            {
+                "topic_entity_list": [
+                    "Excuse Me Miss"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Brooklyn"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTest-712_810a930318378edecdffe4b349276794": [
+            {
+                "question": "What country that is located in Oceania with the largest ISO numeric number?"
+            },
+            {
+                "topic_entity_list": [
+                    "Country",
+                    "Oceania"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Samoa"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-1646_0c8bcc717d50c92c31ff802641504b43": [
+            {
+                "question": "What language is spoken in the place that contains the second level division Salcedo?"
+            },
+            {
+                "topic_entity_list": [
+                    "Salcedo"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Haitian Creole",
+                    "Samaná English",
+                    "Spanish Language"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTest-1171_a8ed8aa8e8eaf11e4b00b81b2ac2ac23": [
+            {
+                "question": "What actor was featured in Mike and Dave Need Wedding Dates and didthe voice of Darth Vader?"
+            },
+            {
+                "topic_entity_list": [
+                    "Voice",
+                    "g.11b6v7j7y9",
+                    "Darth Vader"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Zac Efron"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-2664_c04548701c89d3af786e8b8cc112af82": [
+            {
+                "question": "Of  the main trading partners of China ,which country has an iso of 3166-1 alpha-3 of DZ?"
+            },
+            {
+                "topic_entity_list": [
+                    "China"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Algeria"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-3249_a5b4b068155de58edc7e632f9bece371": [
+            {
+                "question": "What TV Drama show does Tamera Mowry act on?"
+            },
+            {
+                "topic_entity_list": [
+                    "Tamera Mowry",
+                    "TV Dramas"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Strong Medicine"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-3766_e30e234d3055e7c20ad20d1562018910": [
+            {
+                "question": "What is the name of the money used in the country the Peruvian Paso breed originated?"
+            },
+            {
+                "topic_entity_list": [
+                    "Peruvian Paso"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Peruvian nuevo sol"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTest-561_524b7e7fa855202f18ffd7e8c6bdb6c6": [
+            {
+                "question": "What years was the person who said \"I destroy my enemy when I make him my friend.\" President?"
+            },
+            {
+                "topic_entity_list": [
+                    "I destroy my enemy when I make him my friend."
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Abraham Lincoln 1861 presidential inauguration",
+                    "Abraham Lincoln 1865 presidential inauguration"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-2319_0ab11fcdcb73b6d87813cedc74e5a858": [
+            {
+                "question": "What is the official language of the area where the government of Ukraine is?"
+            },
+            {
+                "topic_entity_list": [
+                    "Government of Ukraine"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Albanian language",
+                    "Tatar Language",
+                    "Moldovan language",
+                    "Romanian Language",
+                    "Hungarian language",
+                    "Russian Language",
+                    "Ukrainian Language"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTest-1785_a46f6053d6c82eaf3574d4a8853999c3": [
+            {
+                "question": "What Kim Richards film is 111.0 minutes long?"
+            },
+            {
+                "topic_entity_list": [
+                    "Kim Richards"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Tuff Turf"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-493_c2e01273b1cae913cfd0b14905db6862": [
+            {
+                "question": "Where would you find the location that contains the second level division Arrondissement of Aalst?"
+            },
+            {
+                "topic_entity_list": [
+                    "Arrondissement of Aalst"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Europe",
+                    "Eurasia",
+                    "Western Europe"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-42_479799609c49ac2f363e42bda7221b6f": [
+            {
+                "question": "To which party did the subject of the image \"Andrew Jackson Daguerrotype\" belong?"
+            },
+            {
+                "topic_entity_list": [
+                    "Andrew Jackson Daguerrotype"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Jacksonian Democratic Party",
+                    "Democratic-Republican Party",
+                    "Democratic Party"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTest-1251_128642d73ca29b533dcf6eb1ae0bfa36": [
+            {
+                "question": "Which German speaking country has an ISO less than 056?"
+            },
+            {
+                "topic_entity_list": [
+                    "German Language"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Austria"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-1864_b4a27aa1b03dec67ce6ff38f076f53ff": [
+            {
+                "question": "Which country has the largest population and is where the Frizzle chicken originated?"
+            },
+            {
+                "topic_entity_list": [
+                    "Country",
+                    "Frizzle chicken"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "India"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTest-1528_c3a338c3684d073518350521455aaa8f": [
+            {
+                "question": "In which movies, does Logan Lerman act in, that was production designed by Andrew Menzies?"
+            },
+            {
+                "topic_entity_list": [
+                    "Logan Lerman",
+                    "Andrew Menzies"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "3:10 to Yuma",
+                    "Fury"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-513_2d731534850e1b99f1a4ce2536597327": [
+            {
+                "question": "Which country with the ISO number of 100 is located in Eastern Europe?"
+            },
+            {
+                "topic_entity_list": [
+                    "Eastern Europe",
+                    "Country"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Bulgaria"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-750_05337caf83129cca8d39755239932866": [
+            {
+                "question": "In what years have the Dodgers won the World series?"
+            },
+            {
+                "topic_entity_list": [
+                    "Dodgers.jpg"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "1981 World Series",
+                    "1988 World Series",
+                    "1965 World Series",
+                    "1963 World Series",
+                    "1959 World Series"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-25_a610062e405b459ea2d34dc14f20bb05": [
+            {
+                "question": "Which movies does Taylor Lautner act in, that was produced by the company, Columbia Pictures?"
+            },
+            {
+                "topic_entity_list": [
+                    "Taylor Lautner",
+                    "Columbia Pictures"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "The Adventures of Sharkboy and Lavagirl"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-3694_12efa4cee5acdd0e21df02422bc9cbdd": [
+            {
+                "question": "What is the type of money used where the Cubalaya breed is from?"
+            },
+            {
+                "topic_entity_list": [
+                    "Cubalaya"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Cuban peso",
+                    "Cuban convertible peso"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-124_d633246c068bc5955873cb486af7ffc6": [
+            {
+                "question": "What is the earliest movie directed by Angelina Jolie?"
+            },
+            {
+                "topic_entity_list": [
+                    "Angelina Jolie"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "In the Land of Blood and Honey"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-1532_750c9d853294e414aecb33082306c54d": [
+            {
+                "question": "Which college did Harry S. Truman attend, that has the largest number of postgraduates?"
+            },
+            {
+                "topic_entity_list": [
+                    "Harry S. Truman",
+                    "College/University"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "University of Missouri–Kansas City School of Law"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTest-1965_da82edbcfa689cfcdbb1382bab1bcb03": [
+            {
+                "question": "Who was the voice of Lola Bunny and was nominated in the Gotham Independent Film Award 2009?"
+            },
+            {
+                "topic_entity_list": [
+                    "Voice",
+                    "Lola Bunny",
+                    "Gotham Independent Film Awards 2009"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Kristen Wiig"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-1677_54d53ee732e6acf5d9649daae920602a": [
+            {
+                "question": "What movies with a netflix_id over 60024930 is Adam Sandler in?"
+            },
+            {
+                "topic_entity_list": [
+                    "Adam Sandler"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Jack and Jill",
+                    "Dickie Roberts: Former Child Star",
+                    "Deuce Bigalow: European Gigolo",
+                    "Paul Blart: Mall Cop",
+                    "Bedtime Stories",
+                    "Zookeeper",
+                    "Bucky Larson: Born to Be a Star",
+                    "Click",
+                    "Grown Ups",
+                    "The Benchwarmers",
+                    "Just Go With It",
+                    "The House Bunny",
+                    "You Don't Mess with the Zohan",
+                    "I Now Pronounce You Chuck and Larry"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-3249_4fddfec17159cdf7caa87c1e3e1f34cd": [
+            {
+                "question": "Which show does Tamera Mowry act on, where the TV program \"thetvdb_id\", is greater than 75171?"
+            },
+            {
+                "topic_entity_list": [
+                    "Tamera Mowry"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Strong Medicine",
+                    "Roommates"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-567_688a395a652a9d8c1ef2c54236c488b9": [
+            {
+                "question": "What movie did Ron Howard direct with the largest Netflix ID?"
+            },
+            {
+                "topic_entity_list": [
+                    "Ron Howard"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Under the Boardwalk: The Monopoly Story"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-2314_be3d335c63904299f0103e947254a9f7": [
+            {
+                "question": "What is the currency used in Costa Rica?"
+            },
+            {
+                "topic_entity_list": [
+                    "Government of Costa Rica"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Costa Rican colón"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTest-1941_eaeb39a0db717338715a044a8175bd9a": [
+            {
+                "question": "What system of government is employed where the Peruvian sol is used?"
+            },
+            {
+                "topic_entity_list": [
+                    "Peruvian sol"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Presidential system",
+                    "Unitary state",
+                    "Republic",
+                    "Constitutional republic"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTest-55_2d29c992458630b7e3343cc7bd7f4263": [
+            {
+                "question": "Who exactly is the artist nominated for awards for \"Christmas (2011)\"?"
+            },
+            {
+                "topic_entity_list": [
+                    "Christmas (2011)"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Actor",
+                    "Singer",
+                    "Songwriter"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-1817_b9ee95e24e0e6221b48124d421dd5648": [
+            {
+                "question": "What is the current type of government in the country where BGI Lager beer is made?"
+            },
+            {
+                "topic_entity_list": [
+                    "BGI Lager Beer"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Communist state",
+                    "Socialist state",
+                    "Single-party state"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-2209_e092ba5f2adfd34acb1ff2d1629bae8e": [
+            {
+                "question": "What sports championship did the Celtics win with the results of 4-1?"
+            },
+            {
+                "topic_entity_list": [
+                    "Boston Celtics"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "1965 NBA Finals",
+                    "1964 NBA Finals",
+                    "1961 NBA Finals"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-1597_51bf00b62c1d2a126e4c5a7544d97fff": [
+            {
+                "question": "What TV characters does Seth Macfarlane voice?"
+            },
+            {
+                "topic_entity_list": [
+                    "Seth MacFarlane",
+                    "Voice"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Kevin Swanson",
+                    "Giodano Bruno",
+                    "Tom Tucker",
+                    "Jake Tucker",
+                    "Tim the Bear",
+                    "Jeff McGarland",
+                    "Lion-O"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-3251_1a90de3e56087702d12f5ac656bd7be0": [
+            {
+                "question": "What college in Greeley, Colorado has 40 undergraduates?"
+            },
+            {
+                "topic_entity_list": [
+                    "College/University",
+                    "Greeley"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Academy of Natural Therapy"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTest-537_80c32b072f27820081c103131c1e58c4": [
+            {
+                "question": "What Charlie Hunnam work has a netflix_id that's larger than 60031289?"
+            },
+            {
+                "topic_entity_list": [
+                    "Charlie Hunnam"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Green Street",
+                    "The Ledge",
+                    "Children of Men"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-846_27a3b20f7d1aebfeea7ca284d80cceb5": [
+            {
+                "question": "In which city, was the artist that recorded,Cheers (Drink to That), born at?"
+            },
+            {
+                "topic_entity_list": [
+                    "Cheers (Drink to That)"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Belleville"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTest-1705_701858265dc8d32eee3d5fadd974a9f1": [
+            {
+                "question": "Whence was the composer of \"Lucid Dreams\"?"
+            },
+            {
+                "topic_entity_list": [
+                    "Lucid Dreams"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Glasgow"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-2316_a459bc48bed76ae151bace77f3ff774a": [
+            {
+                "question": "Who died on 7-26-1875 that influenced Jackson Pollock?"
+            },
+            {
+                "topic_entity_list": [
+                    "Jackson Pollock"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Carl Jung"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-2784_3db4e5394a73964976f58989d87836ea": [
+            {
+                "question": "What was the movie produced by Dr. Dre and acted in by Tupac?"
+            },
+            {
+                "topic_entity_list": [
+                    "Dr. Dre",
+                    "Tupac Shakur"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Murder Was the Case"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTest-1528_f4031bab4675b90da1eff58abc5ecc91": [
+            {
+                "question": "What movie starring Logan Lerman that the costumes were designer by Arianne Phillps?"
+            },
+            {
+                "topic_entity_list": [
+                    "Logan Lerman",
+                    "Arianne Phillips"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "3:10 to Yuma"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-2319_d482e9d52e0f0ee50645cc918c643d6b": [
+            {
+                "question": "What is the official language of the Ukraine with the initials SQI?"
+            },
+            {
+                "topic_entity_list": [
+                    "Ukraine"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Albanian language"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTest-712_c82a1eba72695beab0bf7376904b0212": [
+            {
+                "question": "Out of the countries with territories in Oceania, which has the smallest number of people in their army?"
+            },
+            {
+                "topic_entity_list": [
+                    "Country",
+                    "Oceania"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Timor-Leste"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-64_b09c00219764b4f102d325a00e808259": [
+            {
+                "question": "What was the name of music producer of The Don Killuminati: The 7 Day Theory in juice?"
+            },
+            {
+                "topic_entity_list": [
+                    "Juice",
+                    "The Don Killuminati: The 7 Day Theory"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Bishop"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTest-1812_65b5730a361fac314fa12f043413a8c2": [
+            {
+                "question": "Where was the artist that recorded, Love the Way You Lie, raised at?"
+            },
+            {
+                "topic_entity_list": [
+                    "Love the Way You Lie"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Saint Michael Parish"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTest-983_1f8b6ebf20d1119eba090d8d0257bdc5": [
+            {
+                "question": "What university with 3708 postgraduates did Tennessee Williams attend?"
+            },
+            {
+                "topic_entity_list": [
+                    "College/University",
+                    "Tennessee Williams"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "The New School"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-2047_8f22f6393ba4a5375179567a8c895183": [
+            {
+                "question": "What structure that was opened after 1997 that the Chicago Cubs play at?"
+            },
+            {
+                "topic_entity_list": [
+                    "Chicago Cubs"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Sloan Park"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-1812_29aa4d58e974f804b2a78b9dc96c62c0": [
+            {
+                "question": "Which country in the caribbean region has the largest army?"
+            },
+            {
+                "topic_entity_list": [
+                    "Caribbean",
+                    "Country"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Barbados"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-1532_4d4660e6a11db0041accec1e048423d7": [
+            {
+                "question": "Which college Harry S. Truman attended has the earliest organization founding date?"
+            },
+            {
+                "topic_entity_list": [
+                    "Harry S. Truman",
+                    "College/University"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "University of Missouri–Kansas City School of Law"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-1812_09b712193256ecf2e5f87ce70bd17e72": [
+            {
+                "question": "Of the countries in the Caribbean region, which one has the largest ISO numeric number?"
+            },
+            {
+                "topic_entity_list": [
+                    "Caribbean",
+                    "Country"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Collectivity of Saint Martin"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTest-1528_46a304cecca0e072121d7dc42befb590": [
+            {
+                "question": "Which movies does Logan Lerman act in, that was made in Germany?"
+            },
+            {
+                "topic_entity_list": [
+                    "Germany",
+                    "Logan Lerman"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "The Three Musketeers",
+                    "The Patriot"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-3084_3f03848605c6758ff2230a955cd92d65": [
+            {
+                "question": "What country does Japan export to that has a GDP deflator change rate of -0.61?"
+            },
+            {
+                "topic_entity_list": [
+                    "Japan"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Kiribati"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTest-1823_a8cd75f8533d96e3be293401d63fad4b": [
+            {
+                "question": "What political system is used in the geographic region where there's a governing body called Council of Representatives of Iraq?"
+            },
+            {
+                "topic_entity_list": [
+                    "Council of Representatives of Iraq"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Parliamentary system",
+                    "Republic",
+                    "Parliamentary republic",
+                    "Federal republic"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTest-759_2a6f2d7311c4070f0f98f8526d05907c": [
+            {
+                "question": "What celebtiries did Brad Pitt date with their romantic relationships ending prior to 1993?"
+            },
+            {
+                "topic_entity_list": [
+                    "Brad Pitt",
+                    "Dated"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Robin Givens",
+                    "Shalane McCall"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTest-375_e1454c8b479000f97c25ee372d747347": [
+            {
+                "question": "What was the first book written by the author of \"The Cricket on the Hearth\"?"
+            },
+            {
+                "topic_entity_list": [
+                    "The cricket on the hearth",
+                    "Book"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Oliver Twist"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-2815_3a40921ae6042ff93cc654f727b80209": [
+            {
+                "question": "Where was the person raised who recorded \"Happy Birthday, Mr. President\"?"
+            },
+            {
+                "topic_entity_list": [
+                    "Happy Birthday, Mr. President"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Brookline"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTest-1528_c10f21ff1b8944c429bdb86f46cc9196": [
+            {
+                "question": "What is the earliest film that Logan Lerman played in?"
+            },
+            {
+                "topic_entity_list": [
+                    "Logan Lerman"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "The Patriot"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTest-548_6b65a7948e8a5a52b1ed74160c4aecb3": [
+            {
+                "question": "What kind of guitar did the composer of \"The Confessor\" play?"
+            },
+            {
+                "topic_entity_list": [
+                    "The Confessor"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Fender Stratocaster"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-513_8e7e3bbdaeb7f45a9b4ebef0f38b9d90": [
+            {
+                "question": "Which Eastern European country has emissions per capita in dated metric ton of 0.77767?"
+            },
+            {
+                "topic_entity_list": [
+                    "Eastern Europe",
+                    "Country"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Georgia",
+                    "Georgia"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-2189_839fa68cda37e890bb3eed45714fcc43": [
+            {
+                "question": "What is the modern name of the location, where the Chausie breed originated?"
+            },
+            {
+                "topic_entity_list": [
+                    "Chausie"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Modern Standard Arabic"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-3769_6e0a31334a35147f868ae514f9eb9ab8": [
+            {
+                "question": "What county is the \"Orlando Business Journal\" circulated in?"
+            },
+            {
+                "topic_entity_list": [
+                    "Orlando Business Journal"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Orange County"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-1677_4a5f3d407f54c02f61d0a3d24a0727e1": [
+            {
+                "question": "Which movies who Adam Sandler play in had costumes designed by Rita Ryack?"
+            },
+            {
+                "topic_entity_list": [
+                    "Adam Sandler",
+                    "Rita Ryack"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Bedtime Stories"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-2286_357b1c4b2fdaaf9bd16c1bcabe173ce5": [
+            {
+                "question": "Where is the jurisdiction where Bert T. Combs holds a government office?"
+            },
+            {
+                "topic_entity_list": [
+                    "Bert T. Combs"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Contiguous United States",
+                    "United States of America",
+                    "United States, with Territories"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-95_6f91b128b3ff3663ab0fb24cb4bfd1b2": [
+            {
+                "question": "The country where Jamaican English is spoken would need me to take what type of money?"
+            },
+            {
+                "topic_entity_list": [
+                    "Jamaican English"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Jamaican dollar"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-64_7df82f515bf7947c2bfdd404503b50fd": [
+            {
+                "question": "Who authored \"Because I Got a Girl name in juice\"?"
+            },
+            {
+                "topic_entity_list": [
+                    "g.11bbmpspvb",
+                    "Juice"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Bishop"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTest-1875_f978435827c7e85a6632a72eea403599": [
+            {
+                "question": "What forms of government are used in the country where the  Brazilian cruzado novo is circulated?"
+            },
+            {
+                "topic_entity_list": [
+                    "Brazilian cruzado novo"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Presidential system",
+                    "Constitutional republic",
+                    "Federal republic"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-25_db9695c22f0f88f0733e1286c7fffe30": [
+            {
+                "question": "Which Taylor Lautner movie has a tvrage_id of 20997?"
+            },
+            {
+                "topic_entity_list": [
+                    "Taylor Lautner"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "The Nick and Jessica Variety Hour"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTest-537_4346bf5ae9bf50583f07d197cd0c724a": [
+            {
+                "question": "Which movie featuring Charlie Hunnam was released most recently?"
+            },
+            {
+                "topic_entity_list": [
+                    "Charlie Hunnam"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Pacific Rim"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-1597_c8ab7eb9865b458244093ddedeb05134": [
+            {
+                "question": "What characters are voiced by the lyracist for \"Everybody Needs a Best Friend?\"?"
+            },
+            {
+                "topic_entity_list": [
+                    "Voice",
+                    "Everybody Needs a Best Friend"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Kevin Swanson",
+                    "Carter Pewterschmidt",
+                    "Giodano Bruno",
+                    "Glenn Quagmire",
+                    "Tom Tucker",
+                    "Mickey McFinnegan",
+                    "Stewie Griffin",
+                    "God",
+                    "Peter Griffin",
+                    "Brian Griffin",
+                    "Kool-aid Guy",
+                    "Seamus",
+                    "Jasper",
+                    "Dr. Elmer Hartman",
+                    "Nate Griffin",
+                    "Jake Tucker",
+                    "Tim the Bear",
+                    "Roger: American Dad!",
+                    "Stan Smith",
+                    "Jeff McGarland",
+                    "Lion-O"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTest-1941_a20823840ed586d363d240f035da3434": [
+            {
+                "question": "What types of government are used in the Government of Peru?"
+            },
+            {
+                "topic_entity_list": [
+                    "Government of Peru"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Presidential system",
+                    "Unitary state",
+                    "Republic",
+                    "Constitutional republic"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-464_0b1efb954250d417c58d39ccd891b696": [
+            {
+                "question": "In which time zone that has a UTC offset of -6 hours is Texas located?"
+            },
+            {
+                "topic_entity_list": [
+                    "Texas"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Mountain Time Zone"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-2784_4b7058a69c5eb71df36a89837b1e4f60": [
+            {
+                "question": "In which films does the composer of Papa'z Song appear?"
+            },
+            {
+                "topic_entity_list": [
+                    "Papa'z Song"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Murder Was the Case",
+                    "Poetic Justice",
+                    "Gridlock'd",
+                    "Above the Rim",
+                    "Juice",
+                    "Nothing but Trouble",
+                    "Gang Related",
+                    "Bullet"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTest-538_fc5392eefef107aa88084b05ddd2e246": [
+            {
+                "question": "Which film debuted at the 2012 9Âº Syfy Festival and featured Taylor Swift?"
+            },
+            {
+                "topic_entity_list": [
+                    "Taylor Swift",
+                    "2012 9º Syfy Festival"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "The Lorax"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTest-100_7a6ae21348065f95922affec47f394b7": [
+            {
+                "question": "What is the language of the second level division Ouanaminthe Arrondissement location?"
+            },
+            {
+                "topic_entity_list": [
+                    "Ouanaminthe Arrondissement"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Haitian Creole",
+                    "French"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-25_4d68c1f4906c41ef2f0ea4e416e2615b": [
+            {
+                "question": "Jack Giarraputo produced what movie that stars Taylor Lautner?"
+            },
+            {
+                "topic_entity_list": [
+                    "Taylor Lautner",
+                    "Jack Giarraputo"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Grown Ups 2"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-2784_83848dc79b647efd6072c66a56c17b4b": [
+            {
+                "question": "In what films featuring Tupac did Keith Brian Burns do the production design?"
+            },
+            {
+                "topic_entity_list": [
+                    "Keith Brian Burns",
+                    "Tupac Shakur"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Poetic Justice"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTest-538_4c971bef32fb5777fb8b18ead5a702fe": [
+            {
+                "question": "What Taylor Swift movies are the same genre as The True Story of the Three Little Pigs?"
+            },
+            {
+                "topic_entity_list": [
+                    "g.11b5lzm6b0",
+                    "Taylor Swift"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "The Lorax"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-1677_22c4d321fc60b69e1d966c77d4107a74": [
+            {
+                "question": "What movie starring Adam Sandler was filmed in New York City?"
+            },
+            {
+                "topic_entity_list": [
+                    "Adam Sandler",
+                    "New York City"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "You Don't Mess with the Zohan"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-25_abd563e9aa3fc7103b5aae5a6d45564a": [
+            {
+                "question": "Which of the films starring Taylor Lautner was released most recently?"
+            },
+            {
+                "topic_entity_list": [
+                    "Taylor Lautner"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Tracers"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-3766_a20823840ed586d363d240f035da3434": [
+            {
+                "question": "What is the currency in the Government of Peru?"
+            },
+            {
+                "topic_entity_list": [
+                    "Government of Peru"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Peruvian nuevo sol"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTest-1785_8e46718c3fc1361ff1c02b62a853b402": [
+            {
+                "question": "What Universal Studios movie starred Kim Richards?"
+            },
+            {
+                "topic_entity_list": [
+                    "Universal Studios",
+                    "Kim Richards"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "The Car"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-2569_a2cdb0c9a5b7b4a76677fa7477b739b2": [
+            {
+                "question": "What is the venue with the smallest capacity where the Houston Rockets play?"
+            },
+            {
+                "topic_entity_list": [
+                    "Houston Rockets"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Lakewood Church Central Campus"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-568_ae176a507290b2f5342c73d91ecfb246": [
+            {
+                "question": "Which county circulates the Creative Loafing Charlotte newspaper?"
+            },
+            {
+                "topic_entity_list": [
+                    "Creative Loafing Charlotte"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Mecklenburg County"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTest-537_2229bda45800254a8ecdea64c577ca0a": [
+            {
+                "question": "What movie was Charlie Hunnam in that was directed by Stuart Rose?"
+            },
+            {
+                "topic_entity_list": [
+                    "Stuart Rose",
+                    "Charlie Hunnam"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Children of Men"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-567_7dc33c4b385de73d2f8f053cdf6f23bb": [
+            {
+                "question": "What movie did Ron Howard do with cinematography was by Mark Irwin?"
+            },
+            {
+                "topic_entity_list": [
+                    "Ron Howard",
+                    "Mark Irwin"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Osmosis Jones"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-567_e4d5f38a9487c935ab4462347b06cf15": [
+            {
+                "question": "what is the movie with the longest running time that Ron Howard starred in?"
+            },
+            {
+                "topic_entity_list": [
+                    "Ron Howard"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Fire on the Mountain"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-3671_16a18a87b07cc1f5deb84208c7deff87": [
+            {
+                "question": "Who does Queens hair on a film that James Jordan was a crew member on?"
+            },
+            {
+                "topic_entity_list": [
+                    "James Jordan",
+                    "BAFTA Award for Best Makeup & Hair"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Jenny Shircore"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTest-743_af8b975343e4098913128e9ac7d04c05": [
+            {
+                "question": "Who are the brothers of the anti-apartheid public speaker?"
+            },
+            {
+                "topic_entity_list": [
+                    "Male",
+                    "Anti-Apartheid"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Ted Kennedy",
+                    "Joseph P. Kennedy, Jr.",
+                    "Robert F. Kennedy"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTest-537_0b9df216de1dc61e927869e6f9dfac2b": [
+            {
+                "question": "Which of Charlie Hunnam's films was released earliest?"
+            },
+            {
+                "topic_entity_list": [
+                    "Charlie Hunnam"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Whatever Happened to Harold Smith?"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-1023_0513ae5213a4f69739cdef9e7c160e2b": [
+            {
+                "question": "What money is used where the Argentina peso ley is used?"
+            },
+            {
+                "topic_entity_list": [
+                    "Argentina peso ley"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Argentine peso"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTest-1513_24c13551b792ceb6ce65520d29b87c61": [
+            {
+                "question": "What structure in Downtown Sacramento opened in 1986?"
+            },
+            {
+                "topic_entity_list": [
+                    "Sacramento"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "B Street Theatre"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-60_51d761aa070710bb5c4b31c8f0dc9ac7": [
+            {
+                "question": "What Portuguese speaking countries also have a position of Second Vice President?"
+            },
+            {
+                "topic_entity_list": [
+                    "Second Vice-President",
+                    "Portuguese Language"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Equatorial Guinea"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTest-537_c8e0c5670b9fa714ebab6aaeb0205736": [
+            {
+                "question": "What filem feature Charlie Hunnam and was produced by Jon Favreau filmography?"
+            },
+            {
+                "topic_entity_list": [
+                    "Charlie Hunnam",
+                    "Jon Favreau filmography"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Green Street"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTest-538_22837422e25cf0a05cb0efba9aa80402": [
+            {
+                "question": "Which movie did Taylor Swift star in that involved the National Film Board of Canada?"
+            },
+            {
+                "topic_entity_list": [
+                    "National Film Board of Canada",
+                    "Taylor Swift"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "The Lorax"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTest-1785_8bad0a0cbda8b0e72f6a60d6917b95eb": [
+            {
+                "question": "What Irvin Kershner directed movie was Kim Richards in?"
+            },
+            {
+                "topic_entity_list": [
+                    "Irvin Kershner",
+                    "Kim Richards"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Raid on Entebbe"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-846_b2db88607e6e187c67839c81f66e708f": [
+            {
+                "question": "In what location was the composer of Stop Standing there born?"
+            },
+            {
+                "topic_entity_list": [
+                    "Stop Standing There"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Belleville"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-1405_209a925075130582f176bb9a651b1279": [
+            {
+                "question": "What school with the NCES school ID of 250315000417 did President Kennedy attend?"
+            },
+            {
+                "topic_entity_list": [
+                    "John F. Kennedy"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Edward Devotion School"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-3766_6ed17cf93677d92f2fcd2df541fa96b3": [
+            {
+                "question": "What is the money used where the Supreme Court of Peru is located?"
+            },
+            {
+                "topic_entity_list": [
+                    "Supreme Court of Peru"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Peruvian nuevo sol"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-2428_7f8dba203353c3b7569b073ccb09dae6": [
+            {
+                "question": "Who composed the song \"Thinkin About-U!\"?"
+            },
+            {
+                "topic_entity_list": [
+                    "Thinkin About-U!"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Musician",
+                    "Singer"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTest-213_a2c4770244997a8496e0b8489aa442a9": [
+            {
+                "question": "Which actor who played Candlewick dated Scarlett Johansson?"
+            },
+            {
+                "topic_entity_list": [
+                    "Scarlett Johansson",
+                    "Candlewick"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Topher Grace"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-2215_4b1d9f87e9407bef5a468e6c1124c547": [
+            {
+                "question": "Can anyone tell me where the composer of Letter to Me came from?"
+            },
+            {
+                "topic_entity_list": [
+                    "Letter to Me"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Glen Dale"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-60_7abf3620549d6d7aaf194ce37a34bbd8": [
+            {
+                "question": "In which Portuguese speaking country was Carlos Tavares born?"
+            },
+            {
+                "topic_entity_list": [
+                    "g.11b41d96h",
+                    "Portuguese Language"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Portugal"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTest-1941_6ed17cf93677d92f2fcd2df541fa96b3": [
+            {
+                "question": "the courts Supreme Court of Peru has what kind of government?"
+            },
+            {
+                "topic_entity_list": [
+                    "Supreme Court of Peru"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Presidential system",
+                    "Unitary state",
+                    "Republic",
+                    "Constitutional republic"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-783_3c516a15eba0156686ffd81866b60280": [
+            {
+                "question": "This language was spoken by Jewish people and has the code \"hbo\" in the Rosetta project.?"
+            },
+            {
+                "topic_entity_list": [
+                    "Jewish people"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Biblical Hebrew"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-1597_681d3cc1ea84472510a4fceba6d16eb4": [
+            {
+                "question": "What character did Seth Macfarland voice and Rodney Dangerfield played?"
+            },
+            {
+                "topic_entity_list": [
+                    "Seth MacFarlane",
+                    "Voice",
+                    "Rodney Dangerfield"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "God"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-2047_3d5f855275265f74d81b862231578e33": [
+            {
+                "question": "What is the name of the structure opened in 1997 where the Chicago Cubs play?"
+            },
+            {
+                "topic_entity_list": [
+                    "Chicago Cubs"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Hohokam Stadium"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-2904_2a7ddf9902ba184de2dace5671496b91": [
+            {
+                "question": "What city lists an industrial co2 emission of 0.043448524 and is home to Lauren Conrad?"
+            },
+            {
+                "topic_entity_list": [
+                    "Lauren Conrad"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "San Francisco"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-303_cba5bd9bc905f6ca2f19b94bfc010b3a": [
+            {
+                "question": "What influenced the author of Street Scene to write poetry?"
+            },
+            {
+                "topic_entity_list": [
+                    "Street Scene"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Walt Whitman"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTest-538_2055b38029bf8f2a0c593d3a189d3efe": [
+            {
+                "question": "What movie was edited by Jim Clark and featured Taylor Swift?"
+            },
+            {
+                "topic_entity_list": [
+                    "Taylor Swift",
+                    "Jim Clark"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Valentine's Day"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-25_22837422e25cf0a05cb0efba9aa80402": [
+            {
+                "question": "What film involving National Film Board of Canada starred Taylor Lautner?"
+            },
+            {
+                "topic_entity_list": [
+                    "Taylor Lautner",
+                    "National Film Board of Canada"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "The Adventures of Sharkboy and Lavagirl"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-3249_20507e60ba33137383d2b85cb865826a": [
+            {
+                "question": "What show that has less than 6 seasons is Tamera Mowry on?"
+            },
+            {
+                "topic_entity_list": [
+                    "Tamera Mowry"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Roommates",
+                    "Detention",
+                    "The Adventures of Hyperman"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-465_e9585b7d3117fbe09c4ed03353acee7b": [
+            {
+                "question": "What tourist spot in Malta opened in 1732?"
+            },
+            {
+                "topic_entity_list": [
+                    "Malta"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Manoel Theatre"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-62_632b1d8fd7ba66275f6f8d40ed044a13": [
+            {
+                "question": "What are the names of current actors that also worked as Disney kids?"
+            },
+            {
+                "topic_entity_list": [
+                    "Actor",
+                    "Walt Disney"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Diane Disney Miller"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-2721_2d207ed91313bd46c4ffd81c9e26a912": [
+            {
+                "question": "What was the name of Adolf Hitler's parent who died on January 3, 1903?"
+            },
+            {
+                "topic_entity_list": [
+                    "Adolf Hitler"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Alois Hitler"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-303_770773a5150d1cdd3cfadfc25022720b": [
+            {
+                "question": "Who inspired the person who wrote the lyrics for \"Street Scene: Act I. No. 6b Quartet\" to write poetry?"
+            },
+            {
+                "topic_entity_list": [
+                    "Street Scene: Act I. No. 6b Quartet"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Walt Whitman"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-634_8b1ff0551fb22f1d4e54d33d3656b8e8": [
+            {
+                "question": "What profession did Martin Luther have prior to leading a religous organization?"
+            },
+            {
+                "topic_entity_list": [
+                    "Martin Luther"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Priest"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-1770_540abec8ff3d2f4e81bfc5be9ea8e816": [
+            {
+                "question": "Featured in the film Beyonce: Baby and Beyond, what is Beyonce's daughter's name?"
+            },
+            {
+                "topic_entity_list": [
+                    "Beyonce: Baby and Beyond"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Blue Ivy"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTest-1923_d2a47301538ff61eb47d97dcd2b65863": [
+            {
+                "question": "Which Miley Cyrus film was produced by Toby Emmerich?"
+            },
+            {
+                "topic_entity_list": [
+                    "Toby Emmerich",
+                    "Miley Cyrus"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Sex and the City 2"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTest-1379_8d8a89d2b3c70cf221c515e27f633b5b": [
+            {
+                "question": "What did Franz Liszt do for a living until 1849?"
+            },
+            {
+                "topic_entity_list": [
+                    "Life of Franz Liszt"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Priest"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTest-450_b68e8f1a3f19f80d7dfc10bf3796b71e": [
+            {
+                "question": "What is the official flower of the place with an official symbol of Nene?"
+            },
+            {
+                "topic_entity_list": [
+                    "State flower",
+                    "Nene"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Hawaiian hibiscus"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTest-699_c03c4525d4ac4e6fecf42cfd6fe1929a": [
+            {
+                "question": "Which Australian capital houses the County Court of Victoria?"
+            },
+            {
+                "topic_entity_list": [
+                    "County Court of Victoria"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Melbourne"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTest-1923_9f99414d3ce60034d1c914055cf439b7": [
+            {
+                "question": "What animated Walt Disney film featured the voice of Miley Cyrus?"
+            },
+            {
+                "topic_entity_list": [
+                    "Miley Cyrus",
+                    "Walt Disney Animated Classics"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Bolt"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-2429_4449720a6e25f3093a8065ae980f0221": [
+            {
+                "question": "Which form of government did Prussia have and Japan has now?"
+            },
+            {
+                "topic_entity_list": [
+                    "Japan"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Constitutional monarchy"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-738_4c8856ea6b11794a061053bd4ee35371": [
+            {
+                "question": "What discovery did the scientist and academic advisor of Charles Glover Barkla make?"
+            },
+            {
+                "topic_entity_list": [
+                    "Charles Glover Barkla"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Thomson scattering",
+                    "Thomson",
+                    "Thomson problem",
+                    "Thomson"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-2818_7337f6e256ea9b695d810136db74f041": [
+            {
+                "question": "Who knows which body of water flows under Saratov Bridge?"
+            },
+            {
+                "topic_entity_list": [
+                    "Saratov Bridge"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Valdai Hills"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTest-361_696a68cf3cd49341ba9a2ad99b6a9e59": [
+            {
+                "question": "What tourist attraction in Vienna Austria has the largest venue capacity?"
+            },
+            {
+                "topic_entity_list": [
+                    "Vienna"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Hofburg Palace"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-567_97c01fdfa60e1bc796af5839451cd9af": [
+            {
+                "question": "What movies debuted at the Berlin International Film Festival in 2004 that were made by Ron Howard?"
+            },
+            {
+                "topic_entity_list": [
+                    "Ron Howard",
+                    "2004 Berlin International Film Festival"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "American Graffiti"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTest-361_9a6514e92141770cd4fc2592c7768e4b": [
+            {
+                "question": "What attractions in Vienna, Austria have a capacity of less than 4900?"
+            },
+            {
+                "topic_entity_list": [
+                    "Vienna"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Vienna State Opera"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-464_cab1228be4e8c16ee35a67b7ac63b264": [
+            {
+                "question": "What time zone do parts of Texas and Strathmore (D. J. Murray) Airport share?"
+            },
+            {
+                "topic_entity_list": [
+                    "Texas",
+                    "Strathmore (D.J. Murray) Airport"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Mountain Time Zone"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-1232_ae9a833cf2cca30c1c9725fc6a167794": [
+            {
+                "question": "Where is the country that has Africa Proconsularis centered?"
+            },
+            {
+                "topic_entity_list": [
+                    "Africa Proconsularis"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Ravenna"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-95_2ef516a3253d8d1d2c28ae11c6d5b2e9": [
+            {
+                "question": "Which type of money should I bring to the country, that includes the Trelawny Parish?"
+            },
+            {
+                "topic_entity_list": [
+                    "Trelawny Parish"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Jamaican dollar"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-60_66d9f78b8294956373ed9ecbab3318a3": [
+            {
+                "question": "What country with the GDP Real Adjusted Value once of 100236410771.0 do people speak Portuguese?"
+            },
+            {
+                "topic_entity_list": [
+                    "Portuguese Language"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "South Africa"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-2748_7712cb150914e7be807253ecc9fa6e3e": [
+            {
+                "question": "The people from the country with the currency used Thai Baht speak what language?"
+            },
+            {
+                "topic_entity_list": [
+                    "Thai baht"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Khmer language"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-3057_87afbf2481df60df8476b920f00c4247": [
+            {
+                "question": "What other years did the champion of the 2012 World Series won the World Series?"
+            },
+            {
+                "topic_entity_list": [
+                    "2012 World Series"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "2014 World Series"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-2569_49842e208a5dd584154dd0a96881bc05": [
+            {
+                "question": "Where does the team head coached by Kevin McHale play basketball?"
+            },
+            {
+                "topic_entity_list": [
+                    "Kevin McHale"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Toyota Center"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-493_85f381b8012b4def553954906bc9fafb": [
+            {
+                "question": "Where is the capital City of Brussels located at?"
+            },
+            {
+                "topic_entity_list": [
+                    "City of Brussels"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Western Europe"
+                ]
+            }
+        ]
+    }
+]

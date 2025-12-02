@@ -1,0 +1,3841 @@
+[
+    {
+        "WebQTrn-1023_1e7110e48c30a2cef3caf291e3b8d394": [
+            {
+                "question": "What's the currency of the country that includes the location of Buenos Aires?"
+            },
+            {
+                "topic_entity_list": [
+                    "Buenos Aires"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Argentine peso"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-21_660138373d19bbffdd3d3f7a30234e4a": [
+            {
+                "question": "Who holds the position of Prime Minister in the country which contains Dire Dawa?"
+            },
+            {
+                "topic_entity_list": [
+                    "Dire Dawa",
+                    "Prime minister"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Hailemariam Desalegn"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-857_9392f3f06e288ee4e3437a74f6bf5a37": [
+            {
+                "question": "Who was the vice president of the President who attended Ramble Elementary School?"
+            },
+            {
+                "topic_entity_list": [
+                    "Ramble Elementary"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Al Gore"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-2026_d059b24adec4064377b957ca598769be": [
+            {
+                "question": "Santo Domingo is the capital of the country with what currency?"
+            },
+            {
+                "topic_entity_list": [
+                    "Santo Domingo"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Dominican peso"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-2189_f4440609f5cecb091bf8e86adb47be25": [
+            {
+                "question": "What is considered modern in the country where Bilady, Bilady, Bilady language is the national anthem?"
+            },
+            {
+                "topic_entity_list": [
+                    "Bilady, Bilady, Bilady"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Modern Standard Arabic"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTest-100_de15ac1f762e3ec1e1261f6d9c81ebf9": [
+            {
+                "question": "What languages are spoken in the country that has national anthem La Dessaliniene?"
+            },
+            {
+                "topic_entity_list": [
+                    "La Dessalinienne"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Haitian Creole",
+                    "French"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTest-121_333b95bd45af3e6e31e328bc8c24d84f": [
+            {
+                "question": "The person educated at Chase Lane Primary School played for what team in 2011?"
+            },
+            {
+                "topic_entity_list": [
+                    "Chase Lane Primary School"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "LA Galaxy"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-124_028bb5f442b37a4af9f9fd9fa0bc5e9a": [
+            {
+                "question": "What movies did the person who went to William O. Schafer Elementary School direct?"
+            },
+            {
+                "topic_entity_list": [
+                    "William O. Schaefer Elementary School"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "By the Sea",
+                    "In the Land of Blood and Honey",
+                    "A Place in Time",
+                    "Unbroken"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTest-96_11da03aa9cec8b011619c8ea0dbfdcf9": [
+            {
+                "question": "The person who attended education institution in East Whittier Elementary School died where?"
+            },
+            {
+                "topic_entity_list": [
+                    "East Whittier Elementary School"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "New York City"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTest-1119_8c41904eaef9fce2d95afd27eb9150ec": [
+            {
+                "question": "What organization led by Bentley B. Rayburn?"
+            },
+            {
+                "topic_entity_list": [
+                    "Bentley B. Rayburn"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "College/University"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTest-397_c7ee26d5c3f80107d7ae5fede489209a": [
+            {
+                "question": "What are the school colors of Harvard Art Museum?"
+            },
+            {
+                "topic_entity_list": [
+                    "Harvard Art Museums"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Crimson"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-2478_3e09b108c3448248556d4c34acae3cf7": [
+            {
+                "question": "What is the mascot of the organization with the person named Eric F. Spina?"
+            },
+            {
+                "topic_entity_list": [
+                    "Eric F. Spina"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Syracuse University Otto the Orange"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTest-538_d37989c422fef8a98e7289ca0144159c": [
+            {
+                "question": "Which movies has the individual who attended The Wyndcroft School appeared in?"
+            },
+            {
+                "topic_entity_list": [
+                    "The Wyndcroft School"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Hannah Montana: The Movie",
+                    "Valentine's Day",
+                    "The Lorax",
+                    "Jonas Brothers: The Concert Experience",
+                    "The Giver"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTest-54_d14abf7768bdbdaa66897780b56dace1": [
+            {
+                "question": "What country did the person who went to B Steyr control?"
+            },
+            {
+                "topic_entity_list": [
+                    "BRG Steyr"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Nazi Germany"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTest-54_f0c99f377c8b944364e85b70b9f9b331": [
+            {
+                "question": "The person who attended education institution Bundesrealgymnasium Linz controlled what country?"
+            },
+            {
+                "topic_entity_list": [
+                    "Bundesrealgymnasium Linz"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Nazi Germany"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-2256_d14abf7768bdbdaa66897780b56dace1": [
+            {
+                "question": "What happened to the person who went to BRG Steyr at the end of the war?"
+            },
+            {
+                "topic_entity_list": [
+                    "BRG Steyr"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Ballistic trauma",
+                    "Suicide"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-465_02714e184571525b8c510d20f11fc886": [
+            {
+                "question": "What all is there to do for fun in the nation represented by the anthem L-Innu Malti?"
+            },
+            {
+                "topic_entity_list": [
+                    "L-Innu Malti"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Megalithic Temples of Malta",
+                    "National Museum of Fine Arts, Malta",
+                    "Casa Rocca Piccola",
+                    "Fort Rinella",
+                    "National Museum of Archaeology, Malta",
+                    "St. Paul's Catacombs",
+                    "Manoel Theatre",
+                    "Gozo 360° Multivision Show",
+                    "Dingli Cliffs",
+                    "The Armoury and the Maritime Museum"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTest-1091_31c94b951f3d708ac503327d7979da93": [
+            {
+                "question": "Which type of religions practiced in the United States, where the religion place of worship is called, Candi Laras?"
+            },
+            {
+                "topic_entity_list": [
+                    "g.122hpl76",
+                    "United States of America"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Buddhism"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTest-1560_61856c62660c382e9579ce72ec422a70": [
+            {
+                "question": "Who founded the college where Lindsay Zir is a grad student?"
+            },
+            {
+                "topic_entity_list": [
+                    "Lindsay Zir"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Albert Gallatin",
+                    "Mordecai Manuel Noah"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-2834_31c94b951f3d708ac503327d7979da93": [
+            {
+                "question": "Of the major religions in the United States, which has the religion place of worship of  Candi Laras?"
+            },
+            {
+                "topic_entity_list": [
+                    "g.122hpl76",
+                    "United States of America"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Buddhism"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-1077_3c58a650bf56f8c8d0f6931d08bd2598": [
+            {
+                "question": "What are the religions in the area whose major exports are from fruit and tree nut farming?"
+            },
+            {
+                "topic_entity_list": [
+                    "Fruit and Tree Nut Farming"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Shia Islam",
+                    "Sunni Islam"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTest-397_ef7c0ef1f2f2ee145c3e9fa70b47ab7d": [
+            {
+                "question": "What colors do the school where Donald Stanley Marshall is a grad student use?"
+            },
+            {
+                "topic_entity_list": [
+                    "Donald Stanley Marshall"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Crimson"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTest-1923_2d077323191d349225d8f3719925c777": [
+            {
+                "question": "The person who attended Heritage Elementary School has been in what movies?"
+            },
+            {
+                "topic_entity_list": [
+                    "Heritage Elementary School"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Miley Cyrus: Tongue Tied",
+                    "Big Fish",
+                    "Hannah Montana: The Movie",
+                    "Hannah Montana and Miley Cyrus: Best of Both Worlds Concert",
+                    "Sonic the Hedgehog",
+                    "Sex and the City 2",
+                    "Wizards on Deck with Hannah Montana",
+                    "Bolt",
+                    "The Last Song",
+                    "Super Rhino",
+                    "High School Musical 2",
+                    "LOL",
+                    "Radio Disney Party Jams: The Concert",
+                    "The World According to Miley Cyrus",
+                    "So Undercover",
+                    "Family Bond",
+                    "Rock Mafia Presents: The Big Bang"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-3035_94f91513faa8a29c82e1f1184277f81a": [
+            {
+                "question": "Who is governor of the place that contains part of the Uinta Mountains?"
+            },
+            {
+                "topic_entity_list": [
+                    "Governor",
+                    "Uinta Mountains"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Matt Mead"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-124_792933caa19fa7b1c474993687851b6a": [
+            {
+                "question": "What movie was directed by the person who attended education institution  El Rodeo School?"
+            },
+            {
+                "topic_entity_list": [
+                    "El Rodeo School"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "By the Sea",
+                    "In the Land of Blood and Honey",
+                    "A Place in Time",
+                    "Unbroken"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-3216_823204b81227d73ef5fadc741254c75b": [
+            {
+                "question": "What form of currency is used in the country that observes the national anthem titled L'Abidjanaise?"
+            },
+            {
+                "topic_entity_list": [
+                    "L'Abidjanaise"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "West African CFA franc"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-21_a42ef572567ccaf4d1a2e609d11a4226": [
+            {
+                "question": "Who is the prime minister of the country that has national anthem March Forward, Dear Mother Ethiopia?"
+            },
+            {
+                "topic_entity_list": [
+                    "March Forward, Dear Mother Ethiopia",
+                    "Prime minister"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Hailemariam Desalegn"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-484_593bfb1e8da51c4ccd9f768e8f3acd97": [
+            {
+                "question": "What currency is used in the country with Rio de Janeiro?"
+            },
+            {
+                "topic_entity_list": [
+                    "Rio de Janeiro"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Brazilian real"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-1817_bab9c2907e69f117b3ef460ecbfd511a": [
+            {
+                "question": "What type of government is used in the country with Bac Lieu Province?"
+            },
+            {
+                "topic_entity_list": [
+                    "Bac Lieu Province"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Communist state",
+                    "Socialist state",
+                    "Single-party state"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTest-1108_33675738b1c363431ed63babcc989cb8": [
+            {
+                "question": "On what radio station in New York City would you find an organizational leader named Gary Knell?"
+            },
+            {
+                "topic_entity_list": [
+                    "Gary Knell",
+                    "New York City"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "WNYC"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-810_c264a6d11d7956741926d417b94327e2": [
+            {
+                "question": "When did the team led by Larry Baer win the World Series?"
+            },
+            {
+                "topic_entity_list": [
+                    "Larry Baer"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "2014 World Series"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-1484_1fbd766e1b1bf978da23e8646cadf3a1": [
+            {
+                "question": "The person who attended the education institution Colegio AlemÃ¡n Alexander von Humboldt did what kind of paintings?"
+            },
+            {
+                "topic_entity_list": [
+                    "Colegio Alemán Alexander von Humboldt"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Magic realism",
+                    "Modern art",
+                    "Surrealism"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-3035_5b4639a59ee916bc8e30fbc3bfa2d016": [
+            {
+                "question": "The capital of Cheyenne has who as governor of US state?"
+            },
+            {
+                "topic_entity_list": [
+                    "Governor",
+                    "Cheyenne"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Matt Mead"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTest-1072_5b0246d0bc7172511480c78134ab2e39": [
+            {
+                "question": "Who was the governor in 2010 of the state that appointed Bruce Babbitt?"
+            },
+            {
+                "topic_entity_list": [
+                    "Bruce Babbitt",
+                    "Governor"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Jan Brewer"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-3100_0d5bc4f5ce16dafee354662c09965811": [
+            {
+                "question": "What is the country that has national anthem Valiant Quisqueeyans a part of?"
+            },
+            {
+                "topic_entity_list": [
+                    "Valiant Quisqueyans"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Greater Antilles",
+                    "Latin America",
+                    "North America",
+                    "Americas",
+                    "País"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTest-743_42588c6fd3d30a777953bbaf2b4079b9": [
+            {
+                "question": "Who are brothers of the individual who was educated at Edward Devotion School?"
+            },
+            {
+                "topic_entity_list": [
+                    "Male",
+                    "Edward Devotion School"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Ted Kennedy",
+                    "Joseph P. Kennedy, Jr.",
+                    "Robert F. Kennedy"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-105_f4440609f5cecb091bf8e86adb47be25": [
+            {
+                "question": "The country with the national anthem Bilady, Bilady, Bilady required what currency in 2013?"
+            },
+            {
+                "topic_entity_list": [
+                    "Bilady, Bilady, Bilady"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Egyptian pound"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTest-1384_cb60fbc3dea230fc32682cbb8556ba62": [
+            {
+                "question": "What is the most predominant religion in the country Benjamin Netanyahu holds a governmental position?"
+            },
+            {
+                "topic_entity_list": [
+                    "Benjamin Netanyahu"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Judaism"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTest-538_7051341e8a163515972dc322874d8aa0": [
+            {
+                "question": "What movies did the artist that had the concert tour called the Taylor Swift Fears 2009 Tour play in?"
+            },
+            {
+                "topic_entity_list": [
+                    "Taylor Swift Fearless 2009 Tour"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Hannah Montana: The Movie",
+                    "Valentine's Day",
+                    "The Lorax",
+                    "Jonas Brothers: The Concert Experience",
+                    "The Giver"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-3335_c071c552853eb739a0ff0c67bb9ed366": [
+            {
+                "question": "The location that appointed Dmitry Medvedev to governmental position uses what kind of money?"
+            },
+            {
+                "topic_entity_list": [
+                    "Dmitry Medvedev"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Russian ruble"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-1155_92f2cf43c174d40942f1c72ba13096e6": [
+            {
+                "question": "What type of currency is used in the country with national anthem Swiss Psalm?"
+            },
+            {
+                "topic_entity_list": [
+                    "Swiss Psalm"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Swiss franc"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-857_87f2309c33a86e13ce73f341a6f1dc46": [
+            {
+                "question": "Who was the vice president of the person who went to St. John's Catholic Elementary School?"
+            },
+            {
+                "topic_entity_list": [
+                    "St. John's Catholic Elementary School"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Al Gore"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTest-1686_4e89c1dffdc379421d43840f4194ca9e": [
+            {
+                "question": "Who governed the US state which includes the city of Phoenix during 2009?"
+            },
+            {
+                "topic_entity_list": [
+                    "Governor",
+                    "Phoenix"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Janet Napolitano",
+                    "Jan Brewer"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-1560_799804056310383bba960a7649b85b4f": [
+            {
+                "question": "Who married to the person who lived in Downe, Kent?"
+            },
+            {
+                "topic_entity_list": [
+                    "Downe, Kent",
+                    "Marriage"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Emma Darwin"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTest-397_6a82d6252604de26338b33025b2a160a": [
+            {
+                "question": "What are the school colors of the educational institution that includes a grad student named Franklin Ford?"
+            },
+            {
+                "topic_entity_list": [
+                    "Franklin Ford"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Crimson"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-3446_a3875ee1db404486f5502bc39b8e29ec": [
+            {
+                "question": "A person who was once born in Gingins was born where?"
+            },
+            {
+                "topic_entity_list": [
+                    "Gingins"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Le Mans"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTest-1216_a3377a8eb739f84daa945ee91b90f10b": [
+            {
+                "question": "The person who lived in Narym in the past was the leader of which nation?"
+            },
+            {
+                "topic_entity_list": [
+                    "Narym"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Soviet Union"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-2335_eaa7a9f669e0d6d5caf732fd225ff411": [
+            {
+                "question": "What is the national anthem of the country that elected Vladimir Putin to a political job?"
+            },
+            {
+                "topic_entity_list": [
+                    "Vladimir Putin"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "National Anthem of Russia"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-2478_a887b1442ee30456f5de89006e1a6c72": [
+            {
+                "question": "Who is the mascot at grad student Blaise Winter's educational institution?"
+            },
+            {
+                "topic_entity_list": [
+                    "Blaise Winter"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Syracuse University Otto the Orange"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-2335_a9b18d079f29555cbd1e1740c7d6e40e": [
+            {
+                "question": "The country that has Krasnodar Krai has which song as its national anthem?"
+            },
+            {
+                "topic_entity_list": [
+                    "Krasnodar Krai"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "National Anthem of Russia"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-2319_1ad2d84ababa47e6d24a8dd6eb2b7943": [
+            {
+                "question": "What is the official language of the Ukrainian Greek Catholic Church?"
+            },
+            {
+                "topic_entity_list": [
+                    "Ukrainian Greek Catholic Church"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Albanian language",
+                    "Tatar Language",
+                    "Moldovan language",
+                    "Romanian Language",
+                    "Hungarian language",
+                    "Russian Language",
+                    "Ukrainian Language"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTest-1603_1f6f264bb8ed75d1f1faf9b26044401b": [
+            {
+                "question": "What is the sacred text of the religion who has Grotto-heavens as a sacred site?"
+            },
+            {
+                "topic_entity_list": [
+                    "Grotto-heavens"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Zhuang Zhou",
+                    "Tao Te Ching",
+                    "I Ching",
+                    "Daozang"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-2335_c071c552853eb739a0ff0c67bb9ed366": [
+            {
+                "question": "The location that appointed Dmitry Medvedev to govermental position has what national anthem?"
+            },
+            {
+                "topic_entity_list": [
+                    "Dmitry Medvedev"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "National Anthem of Russia"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-2292_8c30eccd3cde88b0a0d389f34d086641": [
+            {
+                "question": "The country that has the national anthem The Internationale has what kind of economy?"
+            },
+            {
+                "topic_entity_list": [
+                    "The Internationale"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Communist state",
+                    "Socialist state",
+                    "Soviet democracy",
+                    "Parliamentary republic"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTest-1560_9c92108cab15de86fd747fe1982c5294": [
+            {
+                "question": "Who founded the branch organization that was originally a project of the Margaret Sanger Papers?"
+            },
+            {
+                "topic_entity_list": [
+                    "Margaret Sanger Papers Project"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Albert Gallatin",
+                    "Mordecai Manuel Noah"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-1077_12953ec0b5895afd7da838969d549013": [
+            {
+                "question": "What religions are practiced in the country that Pakistan exports to?"
+            },
+            {
+                "topic_entity_list": [
+                    "Pakistan"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Shia Islam",
+                    "Sunni Islam"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTest-719_f627c1bb9cdbcf6a029c816631a982b2": [
+            {
+                "question": "Which political party does the Noelani Elementary School represent?"
+            },
+            {
+                "topic_entity_list": [
+                    "Noelani Elementary School"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Democratic Party"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-105_af0a37b13a66138a543af50c2ac24bb8": [
+            {
+                "question": "Which currency is the best one to take when visiting the area where a governmental post was given to Adly Mansour in 2013?"
+            },
+            {
+                "topic_entity_list": [
+                    "Adly Mansour"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Egyptian pound"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTest-654_f4440609f5cecb091bf8e86adb47be25": [
+            {
+                "question": "What is the currency in the country whose national anthem is Bilady, Bilady, Bilady?"
+            },
+            {
+                "topic_entity_list": [
+                    "Bilady, Bilady, Bilady"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Egyptian pound"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTest-397_0b3a8b0643fac530a078012a025201fa": [
+            {
+                "question": "Harvard Board of Overseers is part of the school with what colors?"
+            },
+            {
+                "topic_entity_list": [
+                    "Harvard Board of Overseers"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Crimson"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTest-185_dfad75afd3c40503f595b4cb6acc43a5": [
+            {
+                "question": "Which system of government, does the location that appointed Nicolas Sarkozy, to governmental position utilize?"
+            },
+            {
+                "topic_entity_list": [
+                    "Nicolas Sarkozy"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Semi-presidential system",
+                    "Unitary state",
+                    "Constitutional republic"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-2540_2c1a0de00568616e1701496dedbba8fe": [
+            {
+                "question": "A person who once lived in Giverny was inspired by whom?"
+            },
+            {
+                "topic_entity_list": [
+                    "Giverny"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Eugène Delacroix",
+                    "Gustave Courbet",
+                    "Camille Pissarro",
+                    "Eugène Boudin",
+                    "Pierre-Auguste Renoir",
+                    "Stéphane Mallarmé",
+                    "Charles-François Daubigny"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTest-1736_ba22ae3bdd19c6f33eb70a2977cc7282": [
+            {
+                "question": "What continent is the country with capital Regensburg located in?"
+            },
+            {
+                "topic_entity_list": [
+                    "Regensburg"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Europe"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTest-1091_2d45e5f27018fef8d4f5f7e2cf000006": [
+            {
+                "question": "Marcion of Sinope is a prominent figure in which United State religion?"
+            },
+            {
+                "topic_entity_list": [
+                    "Marcion of Sinope",
+                    "United States of America"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Christianity"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-1259_11c4cd5a25fd84f3980d7013c0329bad": [
+            {
+                "question": "Where did the \"Beat The Summer Tour\" artist graduate college?"
+            },
+            {
+                "topic_entity_list": [
+                    "Beat This Summer Tour",
+                    "Bachelor's degree",
+                    "College/University"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Belmont University"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTest-48_382b3b08e12c259c4c206044a8856ff8": [
+            {
+                "question": "Where is the company owned by Samsung Heavy Industries located?"
+            },
+            {
+                "topic_entity_list": [
+                    "Samsung Heavy Industries"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Suwon"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-2653_c78405f6f2157645f1098f8a871f1bc2": [
+            {
+                "question": "What wars did the country that Louis-EugÃ¨ne Cavaignac was a governmental position been involved in?"
+            },
+            {
+                "topic_entity_list": [
+                    "Louis-Eugène Cavaignac"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Gulf War",
+                    "Battle of Talavera",
+                    "Battle of Bussaco",
+                    "Battle of Bailén",
+                    "Battle of Berezina",
+                    "Second Battle of the Aisne",
+                    "Battle of Medellín",
+                    "Battle of Passchendaele",
+                    "Battle of Dien Bien Phu"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-1938_cb60fbc3dea230fc32682cbb8556ba62": [
+            {
+                "question": "The location that appointed Benjamin Netanyahu to governmental position has what type of government?"
+            },
+            {
+                "topic_entity_list": [
+                    "Benjamin Netanyahu"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Parliamentary system"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTest-759_85689344913b39e3c35fb5730885ff16": [
+            {
+                "question": "Who has in the past dated the actor who was at one time a resident of Lake Mohawk?"
+            },
+            {
+                "topic_entity_list": [
+                    "Lake Mohawk",
+                    "Dated"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Thandie Newton",
+                    "Juliette Lewis",
+                    "Sinitta",
+                    "Shalane McCall",
+                    "Robin Givens"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTest-802_0ed55ab55fae21af5b4b03af90678e30": [
+            {
+                "question": "What is the musical instrument played by the individual who attended Stratford Northwestern Secondary School?"
+            },
+            {
+                "topic_entity_list": [
+                    "Stratford Northwestern Secondary School"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Vocals"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTest-1875_847fede584cbd777dfa2d08a1c06ed49": [
+            {
+                "question": "The country with the capital of Brasilia has what political system?"
+            },
+            {
+                "topic_entity_list": [
+                    "Brasília"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Presidential system",
+                    "Constitutional republic",
+                    "Federal republic"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-2256_f0c99f377c8b944364e85b70b9f9b331": [
+            {
+                "question": "What happed at the end of the war to the person who went to Bundesrealgymnasium Linz educational institution?"
+            },
+            {
+                "topic_entity_list": [
+                    "Bundesrealgymnasium Linz"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Ballistic trauma",
+                    "Suicide"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-1770_1128ef6d5d784cec508a041e2d3c87b9": [
+            {
+                "question": "What is the daughter's name of the person who attended education institution St. Mary's Elementary School?"
+            },
+            {
+                "topic_entity_list": [
+                    "St. Mary's Elementary School"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Blue Ivy"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-3335_97440c6c536f1672835d4cfecf6c698b": [
+            {
+                "question": "What kind of currency is used in the country that has National Anthem of Russia?"
+            },
+            {
+                "topic_entity_list": [
+                    "National Anthem of Russia"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Russian ruble"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-1023_52deecbffa5c67b0c724c84174c5e019": [
+            {
+                "question": "What is the currency of the place whose religious organization leadership is the Society of Jesus?"
+            },
+            {
+                "topic_entity_list": [
+                    "Society of Jesus"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Argentine peso"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTest-12_0267745d7968252ff8fbf5246c9287e9": [
+            {
+                "question": "Who held his governmental position from after January 3, 1983 and was governor of Ohio in 2011?"
+            },
+            {
+                "topic_entity_list": [
+                    "Governor",
+                    "Ohio"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Ted Strickland",
+                    "John Kasich"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-2834_9a69191735636d5c80ee0a6dd1153086": [
+            {
+                "question": "What is a place of worship called the Yanina Synagogue in this major United States religion?"
+            },
+            {
+                "topic_entity_list": [
+                    "g.123852dg",
+                    "United States of America"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Judaism"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-21_6671d5347b1b3cfe482cf5894cc6a05a": [
+            {
+                "question": "Who is the prime minister of where the currency used in the country, is Ethiopian birr?"
+            },
+            {
+                "topic_entity_list": [
+                    "Ethiopian birr",
+                    "Prime minister"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Hailemariam Desalegn"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTest-12_974c964a1a2810facfeb4b1a996e878a": [
+            {
+                "question": "Who held a government post from 1979-01-03 and was the governor of Ohio in 2011?"
+            },
+            {
+                "topic_entity_list": [
+                    "Governor",
+                    "Ohio"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "John Kasich"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-2486_bcd294e8b78226fb373c0a54e4dcba01": [
+            {
+                "question": "Where did the actor who played Forbes Cover Billionair graduate from?"
+            },
+            {
+                "topic_entity_list": [
+                    "Forbes Cover Billionaire",
+                    "Bachelor of Science"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Wharton School of the University of Pennsylvania"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-241_75d9b5cc01750987992de59003249ac2": [
+            {
+                "question": "What countries border the subject of the image \"french_flag\"?"
+            },
+            {
+                "topic_entity_list": [
+                    "french_flag",
+                    "Country"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Belgium",
+                    "Germany",
+                    "Italy",
+                    "Luxembourg",
+                    "Monaco",
+                    "Spain",
+                    "Switzerland",
+                    "United Kingdom",
+                    "Andorra"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-1679_24d46aed793474526e0bf426c38e09e1": [
+            {
+                "question": "In what region is Washington, D.C. located?"
+            },
+            {
+                "topic_entity_list": [
+                    "Frost/Nixon",
+                    "Region"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Mid-Atlantic states",
+                    "South Atlantic States"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-25_65269a6707b8923aa10626533b2f7ae9": [
+            {
+                "question": "What moviews feature the actor who was the topic of the image taylor_wolfpack.jpg?"
+            },
+            {
+                "topic_entity_list": [
+                    "taylor_wolfpack.jpg"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Run the Tide",
+                    "The Ridiculous Six",
+                    "He's a Bully, Charlie Brown",
+                    "Twilight",
+                    "The Twilight Saga: New Moon",
+                    "Valentine's Day",
+                    "Cheaper by the Dozen 2",
+                    "The Adventures of Sharkboy and Lavagirl",
+                    "Shadow Fury",
+                    "Eclipse",
+                    "The Twilight Saga: Breaking Dawn - Part 1",
+                    "The Nick and Jessica Variety Hour",
+                    "Northern Lights",
+                    "Abduction",
+                    "The Twilight Saga: Breaking Dawn - Part 2",
+                    "Field of Dreams 2: Lockout",
+                    "Incarceron",
+                    "Grown Ups 2",
+                    "Tracers"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-1278_025fdfafd914ff922ab8144f527c06ec": [
+            {
+                "question": "Who did the person who wrote \"Panther Power\" date?"
+            },
+            {
+                "topic_entity_list": [
+                    "Panther Power"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Jada Pinkett Smith",
+                    "Salli Richardson",
+                    "Kidada Jones"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-1939_524b7e7fa855202f18ffd7e8c6bdb6c6": [
+            {
+                "question": "What political offices were held by the person who said, \"I destroy my enemy when I make him my friend?\"?"
+            },
+            {
+                "topic_entity_list": [
+                    "I destroy my enemy when I make him my friend."
+                ]
+            },
+            {
+                "gt_answer": [
+                    "United States Representative",
+                    "Member of Illinois House of Representatives",
+                    "President of the United States"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-2314_3b127d6561a71b006b3e6bcf490bf6bc": [
+            {
+                "question": "What is the currency in the governmental jurisdiction with office holder Astrid Fischel Volio?"
+            },
+            {
+                "topic_entity_list": [
+                    "Astrid Fischel Volio"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Costa Rican colón"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTest-1120_0748ec0755fe09c857c9179e9201eda7": [
+            {
+                "question": "What currency was used before the euro in the jurisdiction where the Government of France is located?"
+            },
+            {
+                "topic_entity_list": [
+                    "Government of France"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Assignat",
+                    "French franc"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-452_f622a5aa2edc14c414357d55e1dfa46a": [
+            {
+                "question": "Where does the subject of the image \"Anthony Carmelo (Whitehouse) make their home?"
+            },
+            {
+                "topic_entity_list": [
+                    "Anthony Carmelo (Whitehouse)"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "New York City",
+                    "Baltimore",
+                    "Brooklyn"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-1677_f440937e3c93270055861e78bf0e0c9a": [
+            {
+                "question": "What other movies is the person who plays Charlie Fineman in?"
+            },
+            {
+                "topic_entity_list": [
+                    "Charlie Fineman"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Paul Blart: Mall Cop 2",
+                    "Pixels",
+                    "Eight Crazy Nights",
+                    "You Don't Mess with the Zohan",
+                    "Bedtime Stories",
+                    "Joe Dirt 2: Beautiful Loser",
+                    "Paul Blart: Mall Cop",
+                    "The House Bunny",
+                    "Grown Ups",
+                    "Deuce Bigalow: European Gigolo",
+                    "Zookeeper",
+                    "Dickie Roberts: Former Child Star",
+                    "The Benchwarmers",
+                    "Click",
+                    "Bucky Larson: Born to Be a Star",
+                    "Just Go With It",
+                    "Jack and Jill",
+                    "I Now Pronounce You Chuck and Larry",
+                    "That's My Boy",
+                    "Grown Ups 2",
+                    "Blended",
+                    "Valet Guys"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-21_9d6e0b4b6617f7a16f3132c0b756fc77": [
+            {
+                "question": "Who serves as Prime Minister of the country where Harar Beer is made?"
+            },
+            {
+                "topic_entity_list": [
+                    "Harar Beer",
+                    "Prime minister"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Hailemariam Desalegn"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-3034_2fd33d22c32307ac6536d5c5644a1bde": [
+            {
+                "question": "Where did the person who said, \"In this Revolution no plans have been written for retreat\" earn his doctorate?"
+            },
+            {
+                "topic_entity_list": [
+                    "In this Revolution no plans have been written for retreat.",
+                    "PhD"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Boston University"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTest-1384_1ae1a6be469266690c163ee3f6e0293c": [
+            {
+                "question": "What is the main religion in the nation where the Cabinet of Israel is located?"
+            },
+            {
+                "topic_entity_list": [
+                    "Cabinet of Israel"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Judaism"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTest-1376_f46d89a2e7090339e748bcf7dbd14692": [
+            {
+                "question": "In which province, is the location that has a governmental body called, Montreal Executive Committee?"
+            },
+            {
+                "topic_entity_list": [
+                    "Montreal Executive Committee"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Québec"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTest-561_f4a09a295875531887340bb4c3b57928": [
+            {
+                "question": "When was the person to whom William Howard Taft dedicated his work President?"
+            },
+            {
+                "topic_entity_list": [
+                    "William Howard Taft"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Abraham Lincoln 1861 presidential inauguration",
+                    "Abraham Lincoln 1865 presidential inauguration"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-1939_87feb43d4b743e2f0172e00f50bfada2": [
+            {
+                "question": "What political experience did the person have who said, \"Seriously, I do not think I fit for the presidency\"?"
+            },
+            {
+                "topic_entity_list": [
+                    "Seriously, I do not think I fit for the presidency."
+                ]
+            },
+            {
+                "gt_answer": [
+                    "United States Representative",
+                    "Member of Illinois House of Representatives",
+                    "President of the United States"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-3249_8854b6b321c9e210d83c0419d6d3b4c5": [
+            {
+                "question": "Which shows did the actor who played the character Danielle Warren play in?"
+            },
+            {
+                "topic_entity_list": [
+                    "Danielle Warren"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Detention",
+                    "Strong Medicine",
+                    "Roommates",
+                    "Sister, Sister",
+                    "The Look for Less",
+                    "The Adventures of Hyperman"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTest-1539_96ad8e19d4bfae4439f3839b16a5e190": [
+            {
+                "question": "To whom was the actor who was in the movie \"My Name is Katie\" married in 2012?"
+            },
+            {
+                "topic_entity_list": [
+                    "My Name Is Kate",
+                    "Marriage"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Blake Lively"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-3170_4c56262d6806c8bd5c0fadb75177520a": [
+            {
+                "question": "What degree did the official who held the title Director for Multilateral Affairs have?"
+            },
+            {
+                "topic_entity_list": [
+                    "Director for Multilateral Affairs"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Political Science"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-3335_ca1d9e583e040b7f2f6103a9f44cd53b": [
+            {
+                "question": "What currency is used in the country that has the Coat of Arms of Russia?"
+            },
+            {
+                "topic_entity_list": [
+                    "Coat of arms of Russia"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Russian ruble"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTest-213_87ffe7c3404a14f726cc54ae6d6a6057": [
+            {
+                "question": "Who dated the nominee of the Theater World Award?"
+            },
+            {
+                "topic_entity_list": [
+                    "Theatre World Award"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "nm1157013",
+                    "Josh Hartnett",
+                    "Topher Grace",
+                    "Jared Leto",
+                    "Ryan Reynolds",
+                    "Patrick Wilson",
+                    "Justin Timberlake"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTest-719_4c56262d6806c8bd5c0fadb75177520a": [
+            {
+                "question": "Which political party, does the political appointed, that had the title, Director for Multilateral Affairs represent?"
+            },
+            {
+                "topic_entity_list": [
+                    "Director for Multilateral Affairs"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Democratic Party"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-2006_e258f4c46fa686cf9c12150935e9211f": [
+            {
+                "question": "What magazine did the person who said \"To observe attentively is to remember distinctly.\" work for?"
+            },
+            {
+                "topic_entity_list": [
+                    "To observe attentively is to remember distinctly."
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Graham's Magazine",
+                    "Broadway Journal",
+                    "Burton's Gentleman's Magazine"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-2653_7a1f9047f5100e2853d54d69c6793f2d": [
+            {
+                "question": "In what wars has the government where the French Minister of the Economy, Finance and Industry is in office fought?"
+            },
+            {
+                "topic_entity_list": [
+                    "French Minister of the Economy, Finance and Industry"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Gulf War",
+                    "Battle of Talavera",
+                    "Battle of Bussaco",
+                    "Battle of Bailén",
+                    "Battle of Berezina",
+                    "Second Battle of the Aisne",
+                    "Battle of Medellín",
+                    "Battle of Passchendaele",
+                    "Battle of Dien Bien Phu"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-3034_0e7444ddeac8c5f9b236df292cb8ba04": [
+            {
+                "question": "Where did the artist nominated for an award for \"Why I Oppose the War in Vietnam\" get his doctorate?"
+            },
+            {
+                "topic_entity_list": [
+                    "Why I Oppose the War in Vietnam",
+                    "PhD"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Boston University"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTest-561_5096e7f87655bfead420edf88c0629f0": [
+            {
+                "question": "In what years was the main character of Gore Vidal's movie Lincoln president?"
+            },
+            {
+                "topic_entity_list": [
+                    "Gore Vidal's Lincoln"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Abraham Lincoln 1861 presidential inauguration",
+                    "Abraham Lincoln 1865 presidential inauguration"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTest-1686_66d1d64f0a7a4de1241baa7f8b34c42a": [
+            {
+                "question": "Who was the governor at the same time that the 20th Arizona Territorial Legislature was in session?"
+            },
+            {
+                "topic_entity_list": [
+                    "20th Arizona Territorial Legislature",
+                    "Governor"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Janet Napolitano",
+                    "Jan Brewer"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-1405_4d2f11c63fa0611b0e29bc00f41bf7a9": [
+            {
+                "question": "Where did the president and author who published the book, Profiles in Courage, attend school?"
+            },
+            {
+                "topic_entity_list": [
+                    "Profiles in courage"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Harvard College",
+                    "Stanford Graduate School of Business",
+                    "Choate Rosemary Hall",
+                    "Harvard University",
+                    "Noble and Greenough School",
+                    "Canterbury School",
+                    "Princeton University",
+                    "Riverdale Country School",
+                    "Dexter School",
+                    "Edward Devotion School"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-1532_44fde88468878cac60f3380a368f4f7f": [
+            {
+                "question": "What university wer at some point attended by Harry S. Truman?"
+            },
+            {
+                "topic_entity_list": [
+                    "Year of Decisions",
+                    "College/University"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "University of Missouri–Kansas City",
+                    "University of Missouri–Kansas City School of Law"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-568_d6f5d00e34c842980955ff4ccf624d85": [
+            {
+                "question": "What is the county where the someone in government holds the title of Mayor of Charlotte, North Carolina?"
+            },
+            {
+                "topic_entity_list": [
+                    "Mayor of Charlotte, North Carolina"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Mecklenburg County"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTest-538_0498a505f7181a2845005aaf16d345ba": [
+            {
+                "question": "What are all the movies the composer of \"Speak Now\" has been in?"
+            },
+            {
+                "topic_entity_list": [
+                    "Speak Now"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Hannah Montana: The Movie",
+                    "Valentine's Day",
+                    "The Lorax",
+                    "Jonas Brothers: The Concert Experience",
+                    "The Giver"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-1560_768d9a74377cee6cd3d866cc6312fdcf": [
+            {
+                "question": "Who is the subject of the movie \"The Genius of Charles Darwin\" married to?"
+            },
+            {
+                "topic_entity_list": [
+                    "The Genius of Charles Darwin",
+                    "Marriage"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Emma Darwin"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-3034_9ad09040a8f87a2abeca21f7311fd71e": [
+            {
+                "question": "In which university, did Dr the artist that recorded, Freedom Dub, obtain his doctorate?"
+            },
+            {
+                "topic_entity_list": [
+                    "Freedom Dub",
+                    "PhD"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Boston University"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-1577_b7eb0b3e2b652a3ce8e39983244976ba": [
+            {
+                "question": "What school did the artist of \"Some Days\" attend?"
+            },
+            {
+                "topic_entity_list": [
+                    "Some Days"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "The New School",
+                    "DeWitt Clinton High School"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-3384_2229eb4cf51b84c632d4f3f60c0cb8f3": [
+            {
+                "question": "Which language does the people from the location where the breed, Hertha Pointer, originated speak?"
+            },
+            {
+                "topic_entity_list": [
+                    "g.122wt67x"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Greenlandic language",
+                    "Danish Language",
+                    "Faroese",
+                    "German Language"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-2319_cdbcc6b35919272e53e514bfd6285ea8": [
+            {
+                "question": "What is the official language of the country that has the position title Acting Prime Minister of Ukraine?"
+            },
+            {
+                "topic_entity_list": [
+                    "Acting Prime Minister of Ukraine"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Albanian language",
+                    "Tatar Language",
+                    "Moldovan language",
+                    "Romanian Language",
+                    "Hungarian language",
+                    "Russian Language",
+                    "Ukrainian Language"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-1278_9ddd77154bbd5aa55ea6b7d543dceaac": [
+            {
+                "question": "The subject of the movie Tupac: Hip Hop Genius dated whom?"
+            },
+            {
+                "topic_entity_list": [
+                    "Tupac: Hip Hop Genius"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Jada Pinkett Smith",
+                    "Salli Richardson",
+                    "Kidada Jones"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-2006_94eccff08ac7b521174864c8ad3f3c04": [
+            {
+                "question": "For what publications did the person about whom the movie \"The Death of Poe\" was made work?"
+            },
+            {
+                "topic_entity_list": [
+                    "The Death of Poe"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Graham's Magazine",
+                    "Broadway Journal",
+                    "Burton's Gentleman's Magazine"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTest-634_4f2c0d9eb022ed67ec2cc356d4d5113a": [
+            {
+                "question": "What county does the place with San Antonio City Council located in?"
+            },
+            {
+                "topic_entity_list": [
+                    "San Antonio City Council"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Comal County"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTest-1384_765336ce498563d83d62643fccdd19e1": [
+            {
+                "question": "What is the primary religion practiced in the governmental jurisdiction that includes the governmental body Knesset?"
+            },
+            {
+                "topic_entity_list": [
+                    "Knesset"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Judaism"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTest-1316_75053cb108f036148b2e5631983f76a3": [
+            {
+                "question": "What's the name of the author, who published the Poor Richard's Almanac of 1735, wife?"
+            },
+            {
+                "topic_entity_list": [
+                    "Common-law marriage",
+                    "Poor Richard's Almanac of 1735"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Deborah Read"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTest-12_5373d9d04da65179a41e5d4669db121e": [
+            {
+                "question": "Who was the Methodist governor of Ohio in 2011?"
+            },
+            {
+                "topic_entity_list": [
+                    "Governor",
+                    "Ohio",
+                    "Methodism"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Ted Strickland"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-1794_0e40770fb613032a26f9ef65dcab65be": [
+            {
+                "question": "Where did the author of \"Business @ the Speed of Thought\" graduate from high school?"
+            },
+            {
+                "topic_entity_list": [
+                    "Twelfth grade",
+                    "Business @ the Speed of Thought"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Lakeside School"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-2335_a6da51fcd89e451b7c9eaccc1b7690bf": [
+            {
+                "question": "What's the national anthem, of the location that has a governmental office holder, Yury Chaika?"
+            },
+            {
+                "topic_entity_list": [
+                    "Yury Chaika"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "National Anthem of Russia"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-124_ef2a332818d98d9101c1f25cfcb6ffd9": [
+            {
+                "question": "What movies were directed by the nominee for the London Film Critics Circle for Actress of the Year award?"
+            },
+            {
+                "topic_entity_list": [
+                    "London Film Critics Circle for Actress of the Year"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "By the Sea",
+                    "In the Land of Blood and Honey",
+                    "A Place in Time",
+                    "Unbroken"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTest-1807_b0ecab5a92b635d2b713e3429d12c3b7": [
+            {
+                "question": "What was the team of the actor who acted in NHL: All Access! ?"
+            },
+            {
+                "topic_entity_list": [
+                    "NHL: All Access!"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Edmonton Oilers"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTest-1307_727248e493325c05836e5bb159c752d5": [
+            {
+                "question": "Where did the author of \"To Kill a Mockingbird\" go to high school?"
+            },
+            {
+                "topic_entity_list": [
+                    "School",
+                    "To Kill a Mockingbird (Heinemann Plays)"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Monroe County High School"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTest-1103_ae2fa8293b479842e7e236d1e925d808": [
+            {
+                "question": "How many artists recorded the song, Weâre Gonna Make It?"
+            },
+            {
+                "topic_entity_list": [
+                    "We’re Gonna Make It"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Tina Campbell",
+                    "Erica Campbell"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-775_f7fd99724214e971bcf7a7d2746f6cc5": [
+            {
+                "question": "To what group does Aubrey O'Day belong?"
+            },
+            {
+                "topic_entity_list": [
+                    "Aubrey O'Day"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Dumblonde",
+                    "Danity Kane"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-1259_4b1d9f87e9407bef5a468e6c1124c547": [
+            {
+                "question": "Where did the writer of \"Letter to Me\" graduate college?"
+            },
+            {
+                "topic_entity_list": [
+                    "Bachelor's degree",
+                    "Letter to Me",
+                    "College/University"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Belmont University"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-25_a595672eac8b0f404df1cdec081c2e10": [
+            {
+                "question": "What movies does the subject of the image \"Empire9.jpg\" play in?"
+            },
+            {
+                "topic_entity_list": [
+                    "Empire9.jpg"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Run the Tide",
+                    "The Ridiculous Six",
+                    "He's a Bully, Charlie Brown",
+                    "Twilight",
+                    "The Twilight Saga: New Moon",
+                    "Valentine's Day",
+                    "Cheaper by the Dozen 2",
+                    "The Adventures of Sharkboy and Lavagirl",
+                    "Shadow Fury",
+                    "Eclipse",
+                    "The Twilight Saga: Breaking Dawn - Part 1",
+                    "The Nick and Jessica Variety Hour",
+                    "Northern Lights",
+                    "Abduction",
+                    "The Twilight Saga: Breaking Dawn - Part 2",
+                    "Field of Dreams 2: Lockout",
+                    "Incarceron",
+                    "Grown Ups 2",
+                    "Tracers"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-2335_c1ee86e75cac5d1087ce6131dd7c7414": [
+            {
+                "question": "What is the national anthem of the country where Pivzavod AO Vena Nevskoye Light beer is made?"
+            },
+            {
+                "topic_entity_list": [
+                    "Pivzavod AO Vena Nevskoye Light"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "National Anthem of Russia"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-857_d585a4c2e04a9cd40dd5ec98e2456515": [
+            {
+                "question": "Who was vice president when the actor who played in the movie \"Bill Clinton\" His Life\" was in office?"
+            },
+            {
+                "topic_entity_list": [
+                    "Bill Clinton: His Life"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Al Gore"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-857_0fb078446bb207186f65a2b70b3f0243": [
+            {
+                "question": "Who served as Vice-President under the political appointee who held the title Comptroller General of the United States?"
+            },
+            {
+                "topic_entity_list": [
+                    "Comptroller General of the United States"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Al Gore"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-1155_de31133ce50eafd9ef8c6e37432cde23": [
+            {
+                "question": "What form of currency is used in the country that includes the government position Member of the Swiss Federal Council?"
+            },
+            {
+                "topic_entity_list": [
+                    "Member of the Swiss Federal Council"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Swiss franc"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTest-538_c96f2fb72ec36eebda3526e033a4634c": [
+            {
+                "question": "Which are all the movies the person who wrote the lyrics for \"Long Live\", has been in?"
+            },
+            {
+                "topic_entity_list": [
+                    "Long Live"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Hannah Montana: The Movie",
+                    "Valentine's Day",
+                    "The Lorax",
+                    "Jonas Brothers: The Concert Experience",
+                    "The Giver"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-3024_af0e35c3a617f83f33d3bd482bd98e63": [
+            {
+                "question": "Which disease does the actor, that was the character, Jay-Jay Manners have?"
+            },
+            {
+                "topic_entity_list": [
+                    "Jay-Jay Manners"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Parkinson's disease"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTest-1686_ff336cfd0a1c70f4e9b1a89b268c559d": [
+            {
+                "question": "Which governor had the official symbol of Ditat Deus in 2009?"
+            },
+            {
+                "topic_entity_list": [
+                    "Ditat Deus",
+                    "Governor"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Janet Napolitano",
+                    "Jan Brewer"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-1278_7df82f515bf7947c2bfdd404503b50fd": [
+            {
+                "question": "Who dated the artist who recorded  Beccause I Got a Girl?"
+            },
+            {
+                "topic_entity_list": [
+                    "g.11bbmpspvb"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Jada Pinkett Smith",
+                    "Salli Richardson",
+                    "Kidada Jones"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-2653_6c19bc1fe78f2c0015bfd29e5c12767c": [
+            {
+                "question": "The government jurisdiction, that held the legislative session of the First Valls Government, was involved in which wars?"
+            },
+            {
+                "topic_entity_list": [
+                    "First Valls Government"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Gulf War",
+                    "Battle of Talavera",
+                    "Battle of Bussaco",
+                    "Battle of Bailén",
+                    "Battle of Berezina",
+                    "Second Battle of the Aisne",
+                    "Battle of Medellín",
+                    "Battle of Passchendaele",
+                    "Battle of Dien Bien Phu"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-3170_bcc7cf86fe716e0c10225e1a98b719bb": [
+            {
+                "question": "What degree is held by the public speaker who spoke about energy development?"
+            },
+            {
+                "topic_entity_list": [
+                    "Energy development"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Political Science"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-3376_e00a8eab7666e17c83d8acab6d4e1a8b": [
+            {
+                "question": "The actor that  portrayed the character Pawn Shop Employee attended which school?"
+            },
+            {
+                "topic_entity_list": [
+                    "Pawn Shop Employee"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Temple University",
+                    "Castlemont High School"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-2258_520257486600615e5f5704a63c2281dd": [
+            {
+                "question": "Who was the Vice President when the actor who portrayed Lt. Jimmy Saunders was president?"
+            },
+            {
+                "topic_entity_list": [
+                    "Lt. Jimmy Saunders"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "George H. W. Bush"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTest-213_92d687ae5c1095b83ae11c771ed0f41b": [
+            {
+                "question": "Who dated the recording artist for Coteau Guidry?"
+            },
+            {
+                "topic_entity_list": [
+                    "Coteau Guidry"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "nm1157013",
+                    "Josh Hartnett",
+                    "Topher Grace",
+                    "Jared Leto",
+                    "Ryan Reynolds",
+                    "Patrick Wilson",
+                    "Justin Timberlake"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-2311_a82b389c06081907ebdd12acd9382ab0": [
+            {
+                "question": "What medical condition ended the life of the actor featured as the character Morris Fenderbaum?"
+            },
+            {
+                "topic_entity_list": [
+                    "Morris Fenderbaum"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Laryngeal cancer",
+                    "Complication"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTest-1120_b96b735d1d754f27bc8986b614669f7b": [
+            {
+                "question": "Befre the Euro was adapted, what the the monetay unit used in the country where the film \"Amen\" takes place?"
+            },
+            {
+                "topic_entity_list": [
+                    "Amen"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Assignat",
+                    "French franc"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTest-719_bcc7cf86fe716e0c10225e1a98b719bb": [
+            {
+                "question": "To what political party does the public speaker who spoke about energy development belong?"
+            },
+            {
+                "topic_entity_list": [
+                    "Energy development"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Democratic Party"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-2486_8e7dc1d53f592b0d09bffb2fb511ef96": [
+            {
+                "question": "What school did the actor who played Waldo's father graduate from?"
+            },
+            {
+                "topic_entity_list": [
+                    "Waldo's Dad",
+                    "Bachelor of Science"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Wharton School of the University of Pennsylvania"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTest-213_3ec496c94ff4f83167e7d83479fa7082": [
+            {
+                "question": "Who dated the award nominee for \" A Love Song for Bobby Long?\"?"
+            },
+            {
+                "topic_entity_list": [
+                    "A Love Song for Bobby Long"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "nm1157013",
+                    "Josh Hartnett",
+                    "Topher Grace",
+                    "Jared Leto",
+                    "Ryan Reynolds",
+                    "Patrick Wilson",
+                    "Justin Timberlake"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-124_892dc0cdcd6f5469a8c88275f741535f": [
+            {
+                "question": "What movies were directed by the actor in Angela & Viril?"
+            },
+            {
+                "topic_entity_list": [
+                    "Angela & Viril"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "By the Sea",
+                    "In the Land of Blood and Honey",
+                    "A Place in Time",
+                    "Unbroken"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-76_d0bcff78dbe41bd5c70c0f36a3eeb30d": [
+            {
+                "question": "What college did the Sesame Beginnings: Exploring Together actor attended?"
+            },
+            {
+                "topic_entity_list": [
+                    "College/University",
+                    "Sesame Beginnings: Exploring Together"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Ohio University"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-21_7d825b5eadbaf5e8c1dee03159b9f99e": [
+            {
+                "question": "What is the name of the Prime Minister who serves in the same government as Meles Zenawi?"
+            },
+            {
+                "topic_entity_list": [
+                    "Prime minister",
+                    "Meles Zenawi"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Hailemariam Desalegn"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-1577_8983d767d91f2c7eec26c71cea350b93": [
+            {
+                "question": "Which school did the person that said, \"It is a very rare man who does not victimize the helpless,\" attend?"
+            },
+            {
+                "topic_entity_list": [
+                    "It is a very rare man who does not victimize the helpless."
+                ]
+            },
+            {
+                "gt_answer": [
+                    "The New School",
+                    "DeWitt Clinton High School"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-3170_2c9888f591cdea04f631b1f473bf1578": [
+            {
+                "question": "What field did the speaker during the 70th anniversary of D-Day and the Battle of Normandy have their college degree in?"
+            },
+            {
+                "topic_entity_list": [
+                    "70th anniversary of D-Day and the Battle of Normandy"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Political Science"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTest-1337_5f339cc3a7979a71dd90298c8532b71b": [
+            {
+                "question": "What inventions did the politician who was appointed to his position by the contonental congress create?"
+            },
+            {
+                "topic_entity_list": [
+                    "Continental Congress"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Lightning rod",
+                    "Bifocals",
+                    "Glass harmonica",
+                    "Franklin stove"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-3249_ad66f99d2894fe516e522730a6cca60a": [
+            {
+                "question": "In which shows does the actor who portrayed Cat Donovan appear?"
+            },
+            {
+                "topic_entity_list": [
+                    "Cat Donovan"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Detention",
+                    "Strong Medicine",
+                    "Roommates",
+                    "Sister, Sister",
+                    "The Look for Less",
+                    "The Adventures of Hyperman"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-2708_446e4b328466173822f9394127cb6257": [
+            {
+                "question": "What racing company is sponsored by Aflac?"
+            },
+            {
+                "topic_entity_list": [
+                    "Aflac"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Roush Fenway Racing"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-3673_e138e1bf22cbeb2af5937f34e46afdc6": [
+            {
+                "question": "Which timezone includes the official symbol of Yule Marble?"
+            },
+            {
+                "topic_entity_list": [
+                    "Yule Marble"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Mountain Time Zone"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-465_7ec1aff598d72f91907d801c464ca7d4": [
+            {
+                "question": "What is there to see and do in the location where the Maltese breed originated?"
+            },
+            {
+                "topic_entity_list": [
+                    "Maltese"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Megalithic Temples of Malta",
+                    "National Museum of Fine Arts, Malta",
+                    "Casa Rocca Piccola",
+                    "Fort Rinella",
+                    "National Museum of Archaeology, Malta",
+                    "St. Paul's Catacombs",
+                    "Manoel Theatre",
+                    "Gozo 360° Multivision Show",
+                    "Dingli Cliffs",
+                    "The Armoury and the Maritime Museum"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTest-1072_a86f2ebf5f56d7c7a97bcf7f76fa2d8f": [
+            {
+                "question": "Who was the sitting governor of the State hit by the cyclonic Tropical Storm Norma 2010?"
+            },
+            {
+                "topic_entity_list": [
+                    "Governor",
+                    "Tropical Storm Norma"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Jan Brewer"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTest-719_8c4cd2a8dd5064dcd1e88389796138c7": [
+            {
+                "question": "What polotical party does the  current Associate Director, White House Office of Public Liaison represent?"
+            },
+            {
+                "topic_entity_list": [
+                    "Associate Director, White House Office of Public Liaison"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Democratic Party"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTest-719_f1a83a32bf04983a5a5f9da914f867c8": [
+            {
+                "question": "To what political party did the 2012 State of the Union Address speaker belong?"
+            },
+            {
+                "topic_entity_list": [
+                    "2012 State of the Union Address"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Democratic Party"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTest-1686_b955f51044a2123babff29671bfd4e70": [
+            {
+                "question": "Who was the Governor of Saguaro in 2009?"
+            },
+            {
+                "topic_entity_list": [
+                    "Governor",
+                    "Saguaro"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Janet Napolitano",
+                    "Jan Brewer"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTest-719_4e2a785b515c8024dd42f5a9bc60760b": [
+            {
+                "question": "What political party does the Under Secretary of Defense for Personnel and Rediness belong to?"
+            },
+            {
+                "topic_entity_list": [
+                    "Under Secretary of Defense for Personnel and Readiness"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Democratic Party"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-1077_6387028f7255b20b1c889ff8ed77734a": [
+            {
+                "question": "What religion is practiced where Abdul Rahim Hatif has jurisdiction?"
+            },
+            {
+                "topic_entity_list": [
+                    "Abdul Rahim Hatif"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Shia Islam",
+                    "Sunni Islam"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTest-1348_589bf2e9a5eb102999faf52a27cb6483": [
+            {
+                "question": "What is the earliest founded team that Peyton Manning's dad has played for?"
+            },
+            {
+                "topic_entity_list": [
+                    "Peyton Manning",
+                    "Male"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Minnesota Vikings"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTest-743_ca6ce44d620e3ead920f09f2813da1af": [
+            {
+                "question": "Name the brothers of the politician who spoke about the Berlin Wall.?"
+            },
+            {
+                "topic_entity_list": [
+                    "Berlin Wall",
+                    "Male"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Ted Kennedy",
+                    "Joseph P. Kennedy, Jr.",
+                    "Robert F. Kennedy"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTest-1072_a965046ceb8f96e283925e0c41abb69a": [
+            {
+                "question": "What is the name of the current governor of the place where fictional character Bad Bill lived in 2010?"
+            },
+            {
+                "topic_entity_list": [
+                    "Governor",
+                    "Bad Bill"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Jan Brewer"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTest-561_0a522fd602641e4c7acb7870908615ed": [
+            {
+                "question": "What years did the President whom Congress dedicated their work to serve?"
+            },
+            {
+                "topic_entity_list": [
+                    "United States Congress"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Abraham Lincoln 1861 presidential inauguration",
+                    "Abraham Lincoln 1865 presidential inauguration"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTest-654_f4f38507bbec5d30bec54c8c8dd9a72b": [
+            {
+                "question": "What is the name of the Currency in the Country of Egypt?"
+            },
+            {
+                "topic_entity_list": [
+                    "Government of Egypt"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Egyptian pound"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-3035_7e9708008ed769efea52e35cd8846649": [
+            {
+                "question": "Who is the governor of the state where Dave Freudenthal is a District representative?"
+            },
+            {
+                "topic_entity_list": [
+                    "Governor",
+                    "Dave Freudenthal"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Matt Mead"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-484_dd6bb253556f96cc801f1b16e60ae1cf": [
+            {
+                "question": "What kind of money is used in the place where you'd find the second level division AraporÃ£?"
+            },
+            {
+                "topic_entity_list": [
+                    "Araporã"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Brazilian real"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTest-759_7354c9c64a319b6709919bcfbfe16d92": [
+            {
+                "question": "Which actresses have the actor was featured in the film \"voyage of time\" dated?"
+            },
+            {
+                "topic_entity_list": [
+                    "Voyage of Time",
+                    "Dated"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Thandie Newton",
+                    "Juliette Lewis",
+                    "Sinitta",
+                    "Shalane McCall",
+                    "Robin Givens"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-1645_5d478fefef781c32d0333988a7455ac6": [
+            {
+                "question": "Where did military commander Edward Pakenham begin his career?"
+            },
+            {
+                "topic_entity_list": [
+                    "Edward Pakenham"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Chalmette"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-2258_e0781ce6ee283851f8bf3a5c386c764f": [
+            {
+                "question": "Who served as vice president for someone who had previously served as US Ambassador to Lesotho?"
+            },
+            {
+                "topic_entity_list": [
+                    "United States Ambassador to Lesotho"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "George H. W. Bush"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-1297_4b1c2c1f824d5b470b5a8b188df541e9": [
+            {
+                "question": "Where did the actor that played Alien on TV Monitors #2 grow up in?"
+            },
+            {
+                "topic_entity_list": [
+                    "Alien on TV Monitors #2"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "London"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-484_de57960e299fa018454749173f222521": [
+            {
+                "question": "What is the type of currency in Nova Roma?"
+            },
+            {
+                "topic_entity_list": [
+                    "Nova Roma"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Brazilian real"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTest-1812_2febacb3c783b84086cec1db4ae7470a": [
+            {
+                "question": "What parish is home to the World's Best Selling Barbadian Artist award nominee?"
+            },
+            {
+                "topic_entity_list": [
+                    "World Music Award for World's Best Selling Barbadian Artist"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Saint Michael Parish"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-95_9cefb57084da782f843b2c57e373f0a7": [
+            {
+                "question": "What type of currency is used by the governmental jurisdiction where Donald Sangster holds office?"
+            },
+            {
+                "topic_entity_list": [
+                    "Donald Sangster"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Jamaican dollar"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTest-361_313ad5665508312b968492895147f134": [
+            {
+                "question": "What are some annual events in Vienna, Austria?"
+            },
+            {
+                "topic_entity_list": [
+                    "Yearly",
+                    "Vienna"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Rock im Park"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-76_f29b3764fd88d76c5faa9ea947c57286": [
+            {
+                "question": "The actor that played Hark Hanson attended which college?"
+            },
+            {
+                "topic_entity_list": [
+                    "Hark Hanson",
+                    "College/University"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Ohio University"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-241_6c19bc1fe78f2c0015bfd29e5c12767c": [
+            {
+                "question": "What are the names of the countries that border the location of the First Valls Government legislative session?"
+            },
+            {
+                "topic_entity_list": [
+                    "First Valls Government",
+                    "Country"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Belgium",
+                    "Germany",
+                    "Italy",
+                    "Luxembourg",
+                    "Monaco",
+                    "Spain",
+                    "Switzerland",
+                    "United Kingdom",
+                    "Andorra"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-1405_af8b975343e4098913128e9ac7d04c05": [
+            {
+                "question": "Where did the Anti-Apartheid president public speaker attend school?"
+            },
+            {
+                "topic_entity_list": [
+                    "Anti-Apartheid"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Harvard College",
+                    "Stanford Graduate School of Business",
+                    "Choate Rosemary Hall",
+                    "Harvard University",
+                    "Noble and Greenough School",
+                    "Canterbury School",
+                    "Princeton University",
+                    "Riverdale Country School",
+                    "Dexter School",
+                    "Edward Devotion School"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-2904_2e36b6986e9bd1c449bafc82caafa585": [
+            {
+                "question": "Where was the nominee of the Young Hollywood Award for SodaStream Unbottle the World Live?"
+            },
+            {
+                "topic_entity_list": [
+                    "Young Hollywood Award for SodaStream Unbottle the World"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Los Angeles",
+                    "San Francisco",
+                    "Laguna Beach"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-452_e1d6f53f49be4abf9b71b6f18c67ac13": [
+            {
+                "question": "What three Cities did Lala the subject of the film Carmelo's Way call home?"
+            },
+            {
+                "topic_entity_list": [
+                    "Carmelo's Way"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "New York City",
+                    "Baltimore",
+                    "Brooklyn"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-2784_09e61020934818b85641a22821e7a455": [
+            {
+                "question": "What other movies did the producer of Strictly 4 My N.I.G.G.A.Z... act in?"
+            },
+            {
+                "topic_entity_list": [
+                    "Strictly 4 My N.I.G.G.A.Z..."
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Murder Was the Case",
+                    "Poetic Justice",
+                    "Gridlock'd",
+                    "Above the Rim",
+                    "Juice",
+                    "Nothing but Trouble",
+                    "Gang Related",
+                    "Bullet"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-1665_46147d9704c8a625bd7e4a53596764af": [
+            {
+                "question": "Find the lead actor in Echelon, where do they live?"
+            },
+            {
+                "topic_entity_list": [
+                    "Echelon"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Sydenham",
+                    "Great Yarmouth"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-2653_597d8271f0714c7e1c57bdd74a449e2d": [
+            {
+                "question": "Which war that France was part of had a low estimate of 1 casualty?"
+            },
+            {
+                "topic_entity_list": [
+                    "France"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Gulf War"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-3098_5f339cc3a7979a71dd90298c8532b71b": [
+            {
+                "question": "Where is the birthplace of the politician that was appointed to their governmental position via Continental Congress born?"
+            },
+            {
+                "topic_entity_list": [
+                    "Continental Congress"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Boston"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTest-12_96449ea99c483410641ffbbe84e44f1c": [
+            {
+                "question": "Who was the Ohio Governor in 2011 who was a Christian?"
+            },
+            {
+                "topic_entity_list": [
+                    "Christianity",
+                    "Governor",
+                    "Ohio"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "John Kasich"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-3605_5ce22bd1d7a29e9d543b0c970683bcb6": [
+            {
+                "question": "Find the name of the person who wrote the  song Dive In, where did they attend high school?"
+            },
+            {
+                "topic_entity_list": [
+                    "Dive In",
+                    "High school"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Petersburg High School"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-3170_2883cc73d6e7cc887da948a32c5fd2bb": [
+            {
+                "question": "what does the individual that said \"Yes we can!\" have a degree in?"
+            },
+            {
+                "topic_entity_list": [
+                    "Yes we can!"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Political Science"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-2280_b26c73164ed35a00c2d9ed862aee184a": [
+            {
+                "question": "Organization founder and office holder Carlos P. Romulo has headquarters of his governmental office where?"
+            },
+            {
+                "topic_entity_list": [
+                    "Carlos P. Romulo"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "New York City"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-21_607732d3793a0f96969ee27a0729b7ff": [
+            {
+                "question": "Who is the prime minister of the country where Kambaata people live?"
+            },
+            {
+                "topic_entity_list": [
+                    "Kambaata people",
+                    "Prime minister"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Hailemariam Desalegn"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-2256_9979ad066382ff1507c923c8035087c4": [
+            {
+                "question": "Find the person referred to as Reich Governor during WWII, what happened to this person at the end of the war?"
+            },
+            {
+                "topic_entity_list": [
+                    "Reich Governor"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Ballistic trauma",
+                    "Suicide"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTest-542_aeadf3a0902a2a71546a7144ca1a5d4d": [
+            {
+                "question": "In which city did the producer of Gravest Hits die?"
+            },
+            {
+                "topic_entity_list": [
+                    "Gravest Hits"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "New Orleans"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-2784_08a3071aec88af141fc20ed22cfff0e2": [
+            {
+                "question": "What movies did the famous person who lived in Marin City starred in?"
+            },
+            {
+                "topic_entity_list": [
+                    "Marin City"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Above the Rim"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTest-1108_1988e0b7c1ed7316160b416a7c83b44d": [
+            {
+                "question": "Jarl Mohn is a leader in the organization with what radio station in NYC?"
+            },
+            {
+                "topic_entity_list": [
+                    "Jarl Mohn",
+                    "New York City"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "WNYC"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-1938_744a496b907e407b16bc5d7c197dc3f0": [
+            {
+                "question": "What form of goverment is used by the country who has Ovadia Yosef as a religious leader?"
+            },
+            {
+                "topic_entity_list": [
+                    "Ovadia Yosef"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Parliamentary system"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-1646_0d5bc4f5ce16dafee354662c09965811": [
+            {
+                "question": "What are the spoken languages of the country with national anthem Valiant Quisqueuans?"
+            },
+            {
+                "topic_entity_list": [
+                    "Valiant Quisqueyans"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Samaná English"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-2319_a109f9eb92e7770f2795631f461e7226": [
+            {
+                "question": "What is the official language of the Ukrainian Orthodox Church of the Kyivan Patriarchate?"
+            },
+            {
+                "topic_entity_list": [
+                    "Ukrainian Orthodox Church of the Kyivan Patriarchate"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Ukrainian Language"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTest-1560_3f9e3373173bba6e70a26c4df64aa943": [
+            {
+                "question": "Who founded New York University that had his government position form 3-4-1795?"
+            },
+            {
+                "topic_entity_list": [
+                    "New York University"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Ukrainian Language"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTest-1119_af822f386c49e89a32d2889d16618e1c": [
+            {
+                "question": "What type of institution has a grad student named Terry Guthrie?"
+            },
+            {
+                "topic_entity_list": [
+                    "Terry Guthrie"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "College/University"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTrn-2570_c47133a5a4595621bf114ffa8ed4c3e3": [
+            {
+                "question": "What held his governmental position from latest and was the president of the United States during WWII?"
+            },
+            {
+                "topic_entity_list": [
+                    "President of the United States",
+                    "World War II"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Khmer language"
+                ]
+            }
+        ]
+    },
+    {
+        "WebQTest-802_8562012e739a0e7aee294a26ad53e581": [
+            {
+                "question": "The performer who went on a concert tour called Believe Tour plays which musical instruments?"
+            },
+            {
+                "topic_entity_list": [
+                    "Believe Tour"
+                ]
+            },
+            {
+                "gt_answer": [
+                    "Vocals"
+                ]
+            }
+        ]
+    }
+]

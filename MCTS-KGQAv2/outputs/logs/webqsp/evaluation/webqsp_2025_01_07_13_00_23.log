@@ -1,0 +1,9 @@
+------------------------------ Begin inference ------------------------------ 
+
+CUDA_VISIBLE_DEVICES set to: 4
+************************************************** 加载qwen模型！ **************************************************
+> /workspace/longxiao/KGQA/MCTS-KGQAv2/answer_generation.py(132)run()
+-> io_system = IO_System(args=arguments, tokenizer=tokenizer, model=model)
+(Pdb) --KeyboardInterrupt--
+(Pdb) --KeyboardInterrupt--
+(Pdb) 

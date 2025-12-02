@@ -1,0 +1,29 @@
+------------------------------ Begin inference ------------------------------ 
+
+CUDA_VISIBLE_DEVICES set to: 4
+************************************************** 加载qwen模型！ **************************************************
+Begin to solve the problem 1...
+
+Begin to solve the problem 2...
+
+Begin to solve the problem 3...
+
+Begin to solve the problem 4...
+
+Begin to solve the problem 5...
+
+Begin to solve the problem 6...
+
+Begin to solve the problem 7...
+
+
+ ============================== 判断推理路径是否可靠 ============================== 
+
+propose_prompt: 
+ 本问题是:   who was richard nixon married to? 
+若干子问题:   ['Who was Richard Nixon married to?', 'Who is Richard Nixon?', 'Was Richard Nixon married?'] 
+主题实体是: Richard Nixon 
+待判断的推理路径: Richard Nixon 
+已有的推理步骤:
+候选推理路径的答案: Richard Nixon是否可能是最后答案:
+
