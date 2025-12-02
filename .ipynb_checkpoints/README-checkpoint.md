@@ -1,6 +1,10 @@
 # Enhancing Large Language Models with Reward-guided Tree Search for Knowledge Graph Question and Answering
 This is the official implementation code of the RTSoG algorithm, which leverages large language models for reasoning-assisted guidance to perform question answering on existing knowledge graphs. The related paper, "[Enhancing Large Language Models with Reward-guided Tree Search for Knowledge Graph Question and Answering]," proposes a reward-guided tree search framework for knowledge graph question answering. The core idea of this framework is to utilize large language models as agent intelligences to iteratively explore and reason over knowledge within the knowledge graph. During this process, an innovative Self-Critic Monte Carlo Tree Search (SC-MCTS) algorithm is employed for knowledge exploration, enabling "reflection-backtracking-correction" in reasoning.
 
+<img src="framework1.png" width = "800" />
+
+<img src="framework2.png" width = "600" />
+
 ## Requirements
 1、Hardware Requirements: An NVIDIA GPU environment is required, with CUDA version 12.4 or higher and driver version 550 or above.
 2、Install Dependencies: Set up the required environment by running the command:
