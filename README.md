@@ -66,6 +66,5 @@ CUDA_VISIBLE_DEVICES=4 python /workspace/answer_generation.py \
 > $output_dir/logs/$task_name/evaluation/$filename
 ```
 
-
 ## Acknowledgement
 We refer to the data processing code of ToG[https://github.com/DataArcTech/ToG] and RoG[https://github.com/RManLuo/reasoning-on-graphs]. Thanks for their contributions.
