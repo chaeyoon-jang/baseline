@@ -3,7 +3,6 @@ This is the official implementation code of the RTSoG algorithm, which leverages
 
 <img src="framework1.png" width = "800" />
 
-<img src="framework2.png" width = "600" />
 
 ## Requirements
 1、Hardware Requirements: An NVIDIA GPU environment is required, with CUDA version 12.4 or higher and driver version 550 or above.
@@ -24,6 +23,8 @@ First, after configuring the knowledge graph environment according to the instru
 
 ### Step 1: Generate the Reasoning Tree for the Question
 1、Run sh scripts/run_v2.sh to start the code and build the reasoning tree.
+
+<img src="framework2.png" width = "600" />
 
 ```
 output_dir=/workspace/xxxxxx/KGQA/RTSoG/outputs
