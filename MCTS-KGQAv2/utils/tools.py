@@ -148,6 +148,105 @@ def read_data(input_dir, mode='test'):
     dataset = dataset['train']
     return dataset
 
+
+def _coerce_to_list(value):
+    if value is None:
+        return []
+    if isinstance(value, list):
+        return value
+    return [value]
+
+
+def _extract_text(value):
+    if value is None:
+        return None
+    if isinstance(value, str):
+        return value.strip()
+    if isinstance(value, dict):
+        for key in ('text', 'name', 'entity', 'entity_name', 'answer', 'answer_argument', 'value', 'id', 'mid'):
+            candidate = value.get(key)
+            if candidate:
+                if isinstance(candidate, list):
+                    for item in candidate:
+                        if item:
+                            return str(item).strip()
+                    continue
+                return str(candidate).strip()
+        if len(value) == 1:
+            candidate = next(iter(value.values()))
+            if candidate:
+                return str(candidate).strip()
+    if isinstance(value, (int, float)):
+        return str(value)
+    return None
+
+
+def _normalize_string_list(raw_values):
+    normalized = []
+    for item in _coerce_to_list(raw_values):
+        text = _extract_text(item)
+        if text:
+            normalized.append(text)
+    # preserve order while removing duplicates
+    ordered_unique = list(dict.fromkeys(normalized))
+    return ordered_unique
+
+
+def _normalize_graph_triples(raw_graph):
+    normalized = []
+    for triple in _coerce_to_list(raw_graph):
+        head = relation = tail = None
+        if isinstance(triple, (list, tuple)) and len(triple) >= 3:
+            head, relation, tail = triple[:3]
+        elif isinstance(triple, dict):
+            head = triple.get('head') or triple.get('subject') or triple.get('h')
+            relation = triple.get('relation') or triple.get('predicate') or triple.get('r')
+            tail = triple.get('tail') or triple.get('object') or triple.get('t')
+        if head is None or relation is None or tail is None:
+            continue
+        head_text = _extract_text(head)
+        relation_text = _extract_text(relation)
+        tail_text = _extract_text(tail)
+        if head_text and relation_text and tail_text:
+            normalized.append([head_text, relation_text, tail_text])
+    return normalized
+
+
+def load_jsonl_kgqa_dataset(json_path: str, question_key: str = 'question') -> list:
+    """Load a JSONL KGQA dataset and normalize it to the expected schema."""
+    if not os.path.exists(json_path):
+        raise FileNotFoundError(f"Dataset not found: {json_path}")
+
+    dataset = []
+    with open(json_path, 'r', encoding='utf-8') as f:
+        for line_idx, line in enumerate(f, start=1):
+            line = line.strip()
+            if not line:
+                continue
+            raw = json.loads(line)
+            raw_graph = raw.get('graph')
+            if not raw_graph:
+                subgraph = raw.get('subgraph', {})
+                raw_graph = subgraph.get('tuples', [])
+            graph = _normalize_graph_triples(raw_graph)
+
+            question_text = raw.get(question_key) or raw.get('query') or ''
+            q_entities = raw.get('q_entity') or raw.get('entities') or raw.get('topic_entity') or raw.get('topic_entities') or []
+            a_entities = raw.get('a_entity') or raw.get('answers') or raw.get('answer') or []
+
+            sample = {
+                'id': raw.get('id') or raw.get('orig_id') or raw.get('qid') or f'json_{line_idx}',
+                'question': question_text,
+                'q_entity': _normalize_string_list(q_entities),
+                'a_entity': _normalize_string_list(a_entities),
+                'graph': graph,
+            }
+            if not sample['q_entity'] or not sample['graph']:
+                print(f"[load_jsonl_kgqa_dataset] Skip line {line_idx} due to missing entities or graph.")
+                continue
+            dataset.append(sample)
+    return dataset
+
 def get_output_file(path, force=False):
     if not os.path.exists(path) or force:
         fout = open(path, "w")

@@ -1,3 +1,4 @@
+import argparse
 import json
 import pdb
 import re
@@ -178,7 +179,23 @@ def parse_shortcut(datapath, k):
 
 
 if __name__ == '__main__':
-    path_list1 = ['/workspace/xxxxx/KGQA/MCTS-KGQAv2/outputs/webqsp/mcts/qwen14b/qwen14b-2-7-3_12_27_20_31_2_alltree.json',
+    # CLI support for scripted execution
+    import sys
+    if len(sys.argv) > 1:
+        parser = argparse.ArgumentParser(description='Tree output processing utility.')
+        parser.add_argument('--input', required=True, help='Path to *_alltree.json file.')
+        parser.add_argument('--mode', choices=['shortcut', 'split', 'step'], default='shortcut')
+        parser.add_argument('--topk', type=int, default=10)
+        args = parser.parse_args()
+        if args.mode == 'shortcut':
+            parse_shortcut(args.input, args.topk)
+        elif args.mode == 'split':
+            split_json(args.input)
+        elif args.mode == 'step':
+            split_step(args.input)
+    else:
+        # Legacy hardcoded paths for backward compatibility
+        path_list1 = ['/workspace/xxxxx/KGQA/MCTS-KGQAv2/outputs/webqsp/mcts/qwen14b/qwen14b-2-7-3_12_27_20_31_2_alltree.json',
                  '/workspace/xxxxx/KGQA/MCTS-KGQAv2/outputs/webqsp/mcts/qwen14b/qwen14b-2-7-3_12_27_20_31_32_alltree.json',
                  '/workspace/xxxxx/KGQA/MCTS-KGQAv2/outputs/webqsp/mcts/qwen14b/qwen14b-2-7-3_12_27_20_32_5_alltree.json',
                  '/workspace/xxxxx/KGQA/MCTS-KGQAv2/outputs/webqsp/mcts/qwen14b/qwen14b-2-7-3_12_27_20_32_26_alltree.json',

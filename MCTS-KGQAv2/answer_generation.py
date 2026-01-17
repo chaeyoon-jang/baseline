@@ -1,5 +1,6 @@
 import os
 import argparse
+from argparse import BooleanOptionalAction
 from tqdm import tqdm
 from utils.tools import *
 from MCTSv2.base import*
@@ -254,38 +255,19 @@ def run(arguments:argparse.ArgumentParser):
 
 def parse_args():
     base_args = argparse.ArgumentParser()
-    base_args.add_argument('--datapath_list', type=list, default=['/workspace/xxxx/KGQA/MCTS-KGQAv2/outputs/webqsp/mcts/qwen14b/qwen14b-2-7-3_1-320_alltree/shortcut.json'])
+    base_args.add_argument('--datapath_list', nargs='+', default=['/workspace/xxxx/KGQA/MCTS-KGQAv2/outputs/webqsp/mcts/qwen14b/qwen14b-2-7-3_1-320_alltree/shortcut.json'], help='Shortcut JSON files.')
     base_args.add_argument('--propose_method', type=str, choices=['gpt', 'llama3', 'llama3.1', 'qwen7b', 'qwenapi', '4o-mini', 'qwen14b', 'qwenqwq', 'qwen32b', 'deepseekv3'], default='deepseekv3')
-    base_args.add_argument('--use_local_method', type=bool, default=True)
-    base_args.add_argument('--truncation', type=bool, default=True)
+    base_args.add_argument('--use_local_method', action=BooleanOptionalAction, default=True)
+    base_args.add_argument('--truncation', action=BooleanOptionalAction, default=True)
     base_args.add_argument('--temperature', type=float, default=0.7)
     base_args.add_argument('--max_len', type=int, default=4000)
     base_args.add_argument('--max_new_tokens', type=int, default=256)
-    base_args.add_argument('--do_sample', type=bool, default=False)
-    base_args.add_argument('--use_vllm', default=False, action="store_true")
+    base_args.add_argument('--do_sample', action=BooleanOptionalAction, default=False)
+    base_args.add_argument('--use_vllm', action='store_true', default=False)
 
-    # base_args.add_argument('--model_id', type=int, default=4)
-    arguments = base_args.parse_args()
-    return arguments
+    return base_args.parse_args()
 
 
 if __name__ == '__main__':
     args = parse_args()
-    # datapath_list = ['/workspace/xxxx/KGQA/MCTS-KGQAv2/outputs/webqsp/mcts/qwen14b/qwen14b-2-7-3_1-320_alltree/shortcut.json']
-    # # datapath_list = ['/workspace/xxxx/KGQA/MCTS-KGQAv2/outputs/webqsp/mcts/qwen14b/qwen14b-2-7-3_1-320_alltree/shortcut.json',
-    # #                  '/workspace/xxxx/KGQA/MCTS-KGQAv2/outputs/webqsp/mcts/qwen14b/qwen14b-2-7-3_320-640_alltree/shortcut.json',
-    # #                  '/workspace/xxxx/KGQA/MCTS-KGQAv2/outputs/webqsp/mcts/qwen14b/qwen14b-2-7-3_640-960_alltree/shortcut.json',
-    # #                  '/workspace/xxxx/KGQA/MCTS-KGQAv2/outputs/webqsp/mcts/qwen14b/qwen14b-2-7-3_960-1280_alltree/shortcut.json',
-    # #                  '/workspace/xxxx/KGQA/MCTS-KGQAv2/outputs/webqsp/mcts/qwen14b/qwen14b-2-7-3_1280-1600_alltree/shortcut.json']
-    datapath_list = ['/workspace/xxxx/KGQA/MCTS-KGQAv2/outputs/cwq/mcts/qwen14b/qwen14b-2-7-3_450-900_alltree/shortcut.json']
-    # datapath_list = ['/workspace/xxxx/KGQA/MCTS-KGQAv2/outputs/cwq/mcts/qwen14b/qwen14b-2-7-3_1-450_alltree/shortcut.json',
-    #                  '/workspace/xxxx/KGQA/MCTS-KGQAv2/outputs/cwq/mcts/qwen14b/qwen14b-2-7-3_450-900_alltree/shortcut.json',
-    #                  '/workspace/xxxx/KGQA/MCTS-KGQAv2/outputs/cwq/mcts/qwen14b/qwen14b-2-7-3_900-1350_alltree/shortcut.json',
-    #                  '/workspace/xxxx/KGQA/MCTS-KGQAv2/outputs/cwq/mcts/qwen14b/qwen14b-2-7-3_1350-1800_alltree/shortcut.json',
-    #                  '/workspace/xxxx/KGQA/MCTS-KGQAv2/outputs/cwq/mcts/qwen14b/qwen14b-2-7-3_1800-2250_alltree/shortcut.json',
-    #                  '/workspace/xxxx/KGQA/MCTS-KGQAv2/outputs/cwq/mcts/qwen14b/qwen14b-2-7-3_2250-2700_alltree/shortcut.json',
-    #                  '/workspace/xxxx/KGQA/MCTS-KGQAv2/outputs/cwq/mcts/qwen14b/qwen14b-2-7-3_2700-3150_alltree/shortcut.json',
-    #                  '/workspace/xxxx/KGQA/MCTS-KGQAv2/outputs/cwq/mcts/qwen14b/qwen14b-2-7-3_3150-3600_alltree/shortcut.json']
-    args.datapath_list = datapath_list
     run(args)
-    # set_model(args.model_id)
