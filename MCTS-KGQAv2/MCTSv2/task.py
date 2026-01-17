@@ -232,7 +232,7 @@ class MCTS_Task(SearchTask):
                         weight_vetor = [0.5] + [0.5 / (len(questions_list)-1)] * (len(questions_list)-1)
                         weight_vetor = torch.tensor(weight_vetor).reshape(len(questions_list), 1) # q_l, 1
                         
-                        emb_model = BertSimilarity(model_name_or_path="/workspace/LLaMA-Factory/models/text2vec-base-multilingual")
+                        emb_model = BertSimilarity(model_name_or_path="shibing624/text2vec-base-multilingual")
                         
                         similarity_scores = emb_model.similarity(questions_list, neighbor_triple_text_list) # shape: q_len * nentity
                         weighted_similarity_scores = torch.matmul(similarity_scores.T, weight_vetor) # nentity, q_len * q_len, 1
@@ -353,7 +353,7 @@ class MCTS_Task(SearchTask):
             elif tail_num > 10: # 如果尾实体超过200个的话 换一种方法进行过滤 但是最后反正是 返回 relation_entity2score_filter_dict 选择最好的一个candidate entity
                 total_tail_score_dict = {}
                 # emb_model = SentenceTransformer('/workspace/LLaMA-Factory/models/gte_Qwen2-7B-instruct', device="cpu")
-                emb_model = SentenceTransformer('/workspace/LLaMA-Factory/models/msmarco-distilbert-base-tas-b')
+                emb_model = SentenceTransformer('sentence-transformers/msmarco-distilbert-base-tas-b')
                 # pdb.set_trace()
                 
                 for tail2score in tail2score_list:
@@ -385,7 +385,7 @@ class MCTS_Task(SearchTask):
                         weight_vetor = [0.5] + [0.5 / (len(questions_list)-1)] * (len(questions_list)-1)
                         weight_vetor = torch.tensor(weight_vetor).reshape(len(questions_list), 1) # q_l, 1
                         
-                        emb_model = BertSimilarity(model_name_or_path="/workspace/LLaMA-Factory/models/text2vec-base-multilingual")
+                        emb_model = BertSimilarity(model_name_or_path="shibing624/text2vec-base-multilingual")
                         
                         similarity_scores = emb_model.similarity(questions_list, neighbor_triple_text_list) # shape: q_len * nentity
                         weighted_similarity_scores = torch.matmul(similarity_scores.T, weight_vetor) # nentity, q_len * q_len, 1

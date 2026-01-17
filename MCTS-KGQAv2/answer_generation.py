@@ -10,16 +10,16 @@ from tasks.prompts_v2 import *
 
 
 
-MODEL_PATH = {'qwen7b':'/workspace/LLaMA-Factory/models/Qwen2___5-7B-Instruct',
-              'llama3':'/workspace/LLaMA-Factory/models/Meta-Llama-3-8B-Instruct',
-              'llama3.1':'/workspace/LLaMA-Factory/models/Llama3-1-8B-Instruct',
-              'qwen14b':'/workspace/LLaMA-Factory/models/Qwen2.5-14B-Instruct',
-              'qwenqwq':'/workspace/LLaMA-Factory/models/QwQ-32B-Preview',
-              'qwen32b':'/workspace/LLaMA-Factory/models/Qwen2.5-32B-Instruct'}
+MODEL_PATH = {'qwen7b':'Qwen/Qwen2.5-7B-Instruct',
+              'llama3':'meta-llama/Llama-3.8B-Instruct',
+              'llama3.1':'meta-llama/Llama3.1-8B-Instruct',
+              'qwen14b':'Qwen/Qwen2.5-14B-Instruct',
+              'qwenqwq':'Qwen/QwQ-32B-Preview',
+              'qwen32b':'Qwen/Qwen2.5-32B-Instruct'}
 
-gte_model_path = '/workspace/LLaMA-Factory/models/gte_Qwen2-7B-instruct'
-emb_model_path = '/workspace/LLaMA-Factory/models/text2vec-base-multilingual'
-tog_model_path = '/workspace/LLaMA-Factory/models/msmarco-distilbert-base-tas-b'
+gte_model_path = 'Alibaba-NLP/gte-Qwen2-7B-instruct'
+emb_model_path = 'shibing624/text2vec-base-multilingual'
+tog_model_path = 'sentence-transformers/msmarco-distilbert-base-tas-b'
 
 
 

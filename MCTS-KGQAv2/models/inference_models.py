@@ -113,8 +113,14 @@ class IO_System:
         do_sample = self.do_sample
         truncation = self.truncation
         if self.use_vllm:
-
-            return 
+            # vLLM 경로: 내부 vLLM 생성 함수를 사용해 응답을 반환
+            return self.generate_with_vLLM_model(
+                query,
+                temperature=temperature,
+                n=1,
+                max_tokens=max_new_tokens,
+                stop=[],
+            )
 
         else:
             if inference_type == 'llama':
@@ -231,15 +237,27 @@ class IO_System:
                                 stop=[],):  
         
         cnt = 2
-        ## 进行 system prompt的区别
+        ## system prompt 분기
         model = self.model
         inference_type = self.inference_type
+        # inference_type 정규화
+        if 'qwen' in inference_type:
+            inference_type = 'qwen'
+        elif 'llama' in inference_type:
+            inference_type = 'llama'
         split_response = []
 
         if inference_type == 'qwen':
             input = "<|im_start|>system\nPlease reason step by step, and put your final answer within \\boxed{{}}.<|im_end|>\n<|im_start|>user\n{query}<|im_end|>\n<|im_start|>assistant\n".format(query=query)
         elif inference_type == 'llama':
             input = '<|start_header_id|>user<|end_header_id|>\n\n{query}<|eot_id|><|start_header_id|>assistant<|end_header_id|>\n\n'.format(query=query)
+        else:
+            print(f"경고: 알 수 없는 inference_type={inference_type}, 기본 qwen 포맷 사용")
+            input = "<|im_start|>system\nPlease reason step by step, and put your final answer within \\boxed{{}}.<|im_end|>\n<|im_start|>user\n{query}<|im_end|>\n<|im_start|>assistant\n".format(query=query)
+
+        if model is None:
+            print("오류: vLLM 모델이 로드되지 않았습니다 (model is None)")
+            return split_response
 
 
         sampling_params = SamplingParams(
@@ -251,6 +269,7 @@ class IO_System:
             max_tokens=max_tokens,
             stop=stop,
         )
+        output = None
         while cnt:
             try:
                 output = model.generate(input, sampling_params, use_tqdm=False)
@@ -259,6 +278,10 @@ class IO_System:
                 print(f'Error:{e}, obtain response again...\n')
                 cnt -= 1
         
+        if output is None:
+            print("vLLM 모델 생성 실패. 빈 응답 반환")
+            return split_response
+            
         for o in output[0].outputs:
             split_response.extend(o.text.split('\n'))
         # pdb.set_trace()

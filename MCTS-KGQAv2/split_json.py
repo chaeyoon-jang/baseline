@@ -83,15 +83,32 @@ def parse_shortcut(datapath, k):
         os.mkdir(data_dir)
     save_data_list = []
     with open(datapath, 'r') as f:
-        lines = f.readlines()
+        # JSONL 형식을 먼저 시도 (한 줄에 하나씩)
+        content = f.read()
+        lines = content.strip().split('\n')
+        data_list = []
+        
+        # JSONL 파싱 시도
+        try:
+            for line in lines:
+                if line.strip():
+                    data_list.append(json.loads(line))
+        except json.JSONDecodeError:
+            # JSONL 실패 시 JSON 배열로 시도
+            try:
+                data_list = json.loads(content)
+                if not isinstance(data_list, list):
+                    data_list = [data_list]
+            except json.JSONDecodeError as e:
+                raise ValueError(f"파일을 JSONL 또는 JSON 배열로 파싱할 수 없습니다: {e}")
+
         total_num = 0
         correct_num = 0
         topk_correct_num = 0
         illegal = 0
         id_list = []
-        for id, line in enumerate(lines):
+        for id, data in enumerate(data_list):
             save_data = defaultdict(list)
-            data = json.loads(line)
             is_legal = data['is_legal']
             if is_legal:
                 total_num += 1
@@ -193,6 +210,7 @@ if __name__ == '__main__':
             split_json(args.input)
         elif args.mode == 'step':
             split_step(args.input)
+        sys.exit(0)  # CLI 모드 완료 후 종료
     else:
         # Legacy hardcoded paths for backward compatibility
         path_list1 = ['/workspace/xxxxx/KGQA/MCTS-KGQAv2/outputs/webqsp/mcts/qwen14b/qwen14b-2-7-3_12_27_20_31_2_alltree.json',

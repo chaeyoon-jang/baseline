@@ -15,15 +15,17 @@ from sentence_transformers import SentenceTransformer
 from similarities import *
 
 MODEL_PATH = {'qwen7b':'Qwen/Qwen2.5-7B-Instruct',
-              'llama3':'meta-llama/Meta-Llama-3-8B-Instruct',
-              'llama3.1':'meta-llama/Llama3-1-8B-Instruct',
+              'llama3':'meta-llama/Llama-3.8B-Instruct',
+              'llama3.1':'meta-llama/Llama3.1-8B-Instruct',
               'qwen14b':'Qwen/Qwen2.5-14B-Instruct',
               'qwenqwq':'Qwen/QwQ-32B-Preview',
-              'qwen32b':'Qwen/Qwen2.5-32B-Instruct'}
+              'qwen32b':'Qwen/Qwen2.5-32B-Instruct',
+              'qwen':'Qwen/Qwen2.5-14B-Instruct',
+              'llama':'meta-llama/Llama-3.8B-Instruct'}
 
-gte_model_path = '/workspace/LLaMA-Factory/models/gte_Qwen2-7B-instruct'
-emb_model_path = '/workspace/LLaMA-Factory/models/text2vec-base-multilingual'
-tog_model_path = '/workspace/LLaMA-Factory/models/msmarco-distilbert-base-tas-b'
+gte_model_path = 'Alibaba-NLP/gte-Qwen2-7B-instruct'
+emb_model_path = 'shibing624/text2vec-base-multilingual'
+tog_model_path = 'sentence-transformers/msmarco-distilbert-base-tas-b'
 
 def run(arguments:argparse.ArgumentParser):
     print('-'*30, 'Begin inference', '-'*30, '\n')
@@ -72,16 +74,12 @@ def run(arguments:argparse.ArgumentParser):
     
     tokenizer, model = None, None
     if arguments.use_local_method:
-        if arguments.use_vllm: # 여러 샘플링을 위해 가장 가능성 높은 관계를 투표로 결정
+        if arguments.use_vllm: # vLLM 로컬 모델 로드
             from models.vllm_models import load_vLLM_model
-            if arguments.propose_method == 'qwen':
-                model_path = MODEL_PATH['qwen']
-                tokenizer, model = load_vLLM_model(model_path)
-                print("*"*50, "qwen 모델 로드!", "*"*50)
-            if arguments.propose_method == 'llama':
-                model_path = MODEL_PATH['llama']
-                tokenizer, model = load_vLLM_model(model_path)
-                print("*"*50, "llama 모델 로드!", "*"*50)
+            model_key = arguments.propose_method
+            model_path = MODEL_PATH.get(model_key, model_key)
+            tokenizer, model = load_vLLM_model(model_path)
+            print("*"*50, f"{model_key} vLLM 모델 로드!", "*"*50)
         else: # vllm 미사용 
             if 'qwen' in arguments.propose_method:
                 model_path = MODEL_PATH[arguments.propose_method]
@@ -187,11 +185,6 @@ def run(arguments:argparse.ArgumentParser):
                 #     visualize(root, Task, arguments.task_name, arguments.file, i + 1)
 
             print(f'문제 {i+1}의 트리 완성.\n')
-            base_dir = os.getcwd()
-            output_dir = pathlib.Path(f'{base_dir}/outputs/{arguments.task_name}/{Task.mode}/{Task.propose_method}')
-            output_file = f'{base_dir}/outputs/{arguments.task_name}/{Task.mode}/{Task.propose_method}/{Task.propose_method}-{arguments.shuffle_times}-{arguments.num_plan_branch}-{arguments.num_branch}_{current_month}_{current_day}_{current_hour}_{current_minute}_{current_second}_alltree.json'
-            pathlib.Path.mkdir(output_dir, exist_ok=True, parents=True)
-            dump_json(output_file, tree_list)
             ################################################# 일반 케이스 ###################################################
         except Exception as e:
             print(f"이 데이터 생성 실패, 다음 데이터 진행!\nError type:{e}\n")
@@ -204,6 +197,15 @@ def run(arguments:argparse.ArgumentParser):
     if arguments.evaluate:
         print(f'테스트 정확도: {correct_count / data_len}\n')
         print(f'정답 문제 수: {correct_count}\n전체 질문 수: {data_len}\n')
+    
+    # 최종 결과 저장
+    if tree_list:
+        base_dir = os.getcwd()
+        output_dir = pathlib.Path(f'{base_dir}/outputs/{arguments.task_name}/mcts/{arguments.propose_method}')
+        output_file = f'{base_dir}/outputs/{arguments.task_name}/mcts/{arguments.propose_method}/{arguments.propose_method}-{arguments.shuffle_times}-{arguments.num_plan_branch}-{arguments.num_branch}_{current_month}_{current_day}_{current_hour}_{current_minute}_{current_second}_alltree.json'
+        pathlib.Path.mkdir(output_dir, exist_ok=True, parents=True)
+        dump_json(output_file, tree_list)
+        print(f'최종 결과 저장됨: {output_file}\n')
     print('_' * 60)
 
 

@@ -468,7 +468,8 @@ def executeRound(root: treeNode=None,
     # pdb.set_trace()
     print('backup is over')
     print('-'*40, f'已有节点数量:{root.node_num}', f'最大深度:{root.maxdepth}')
-    return False, is_in_graph, node, root, path_with_reward
+    # 返回顺序需与调用处解구结构와 일치: node, is_in_graph, flag, root, path_with_reward_list, subquestions_list
+    return node, is_in_graph, node, root, path_with_reward, subquestions_list
 
 
 
@@ -514,7 +515,7 @@ def MCTS_search(mcts_task):
             path_with_reward_list.append(path_with_reward)
             if flag:
                 print('已找到解决方案！\n')
-                return root, node, time.time() - time_start
+                return node, is_in_graph, flag, root, path_with_reward_list, subquestions_list
     else:
         time_start = time.time()
         for iter in range(mcts_task.iteration_limit):
@@ -522,7 +523,7 @@ def MCTS_search(mcts_task):
             print(f'<开始新搜索轮次，目前已完成轮次数:{iter}>\n')
             # pdb.set_trace()
             # pdb.set_trace()
-            flag, is_in_graph, node, root, path_with_reward = executeRound(root=root,
+            flag, is_in_graph, node, root, path_with_reward, subquestions_list = executeRound(root=root,
                                                                 topic_entity=topic_entity,
                                                                 mcts_task=mcts_task,
                                                                 graph=graph,
@@ -532,7 +533,7 @@ def MCTS_search(mcts_task):
                                                                 shuffle=shuffle,
                                                                 shuffle_times=shuffle_times)
             if is_in_graph == False:
-                return node, is_in_graph, flag, root, path_with_reward_list, 
+                return node, is_in_graph, flag, root, path_with_reward_list, subquestions_list
             path_with_reward_list.append(path_with_reward)
             all_time = time.time() - time_start
             
