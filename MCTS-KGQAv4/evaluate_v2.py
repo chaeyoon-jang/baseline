@@ -28,7 +28,10 @@ tog_model_path = '/workspace/LLaMA-Factory/models/msmarco-distilbert-base-tas-b'
 def run(arguments:argparse.ArgumentParser):
     print('-'*30, 'Begin inference', '-'*30, '\n')
     if arguments.use_freebase: # freebase type
-        input_dir = f'/workspace/longxiao/KGQA/ToG-main/data/{arguments.task_name}.json' # freebase type
+        if arguments.data_path:
+            input_dir = arguments.data_path
+        else:
+            input_dir = f'/workspace/longxiao/KGQA/ToG-main/data/{arguments.task_name}.json' # freebase type
         try:
             dataset, question_string, q_string = prepare_dataset(input_dir) # freebase type
             data_len = len(dataset)
@@ -104,7 +107,7 @@ def run(arguments:argparse.ArgumentParser):
     
     io_system = IO_System(args=arguments, tokenizer=tokenizer, model=model)
     # pdb.set_trace()
-    for i in tqdm(range(0, 120)):
+    for i in tqdm(range(data_len)):
         start_time = get_system_time()
         print(f'<start tree search at {start_time}>\n')
         try:
@@ -242,6 +245,7 @@ def parse_args():
     base_args = argparse.ArgumentParser()
     base_args.add_argument('--task_name', type=str, default='cwq')
     base_args.add_argument('--emb_model', type=str, choices=['gte', 'sentence_bert', 'text2vec'], default='gte')
+    base_args.add_argument('--data_path', type=str, default=None)
     base_args.add_argument('--use_local_method', type=bool, default=True)
     base_args.add_argument('--propose_method', type=str, choices=['gpt', 'llama3', 'llama3.1', 'qwen7b', 'qwenapi', '4o-mini', 'qwen14b', 'qwenqwq', 'qwen32b'], default='qwen14b')
     base_args.add_argument('--value_method', type=str, choices=['gpt', 'llama', 'qwen', 'qwen', '4o-mini'], default='qwen')
